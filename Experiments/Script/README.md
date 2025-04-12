@@ -1,0 +1,1 @@
+## Geração dos CSVs de resolução
