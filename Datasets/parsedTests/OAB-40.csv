@@ -1,5 +1,5 @@
-question,comment,legalPrinciples,answers,canceledQuestion?
-"QUESTÃO 01. Pedro, contador com vasta experiência e sólida carreira, decide fazer uma segunda 
+question_number,question,comment,legalPrinciples,answers,canceledQuestion?,disciplines
+1,"QUESTÃO 01. Pedro, contador com vasta experiência e sólida carreira, decide fazer uma segunda 
 graduação, tornando -se bacharel em Direito. Depois da aprovação no Exame de Ordem Unificado e da 
 inscrição nos quadros da Ordem dos Advogados do Brasil, Pedro pretende continuar prestando serviços 
 contábeis, sem prejuízo do exercício concomitante da nova atividade.  
@@ -34,8 +34,8 @@ deve ser feita de forma separada, para evit ar confusão ou mistura das atividad
 A alternativa D está incorreta .  O Código de Ética proíbe práticas que caracterizem mercantilização da 
 profissão ou captação indevida de clientela. A publicidade na advocacia deve ser moderada e informativa, 
 não sendo permitido o uso de mala direta e panfletos com a finalidade de capta ção direta de clientes, 
-independentemente de mencionar ou não serviços contábeis.","Estatuto da OAB, Código de Ética e Disciplina da OAB, Artigo 28 do Estatuto da Ordem dos Advogados do Brasil (OAB)",C,False
-"QUESTÃO 02. Formalizou -se, no Tribunal Regional Eleitoral do Estado Alfa, a vacância de um dos cargos 
+independentemente de mencionar ou não serviços contábeis.","Estatuto da OAB, Código de Ética e Disciplina da OAB, Artigo 28 do Estatuto da Ordem dos Advogados do Brasil (OAB)",C,False,Ética Profissional
+2,"QUESTÃO 02. Formalizou -se, no Tribunal Regional Eleitoral do Estado Alfa, a vacância de um dos cargos 
 de juiz eleitoral, reservado constitucionalmente à classe de advogados. De igual modo, no Tribunal 
 Regional Federal da Enésima Região, sediado na capital do mesmo Estado Alfa , com jurisdição nos Estados 
 Alfa , Beta e Gama , foi também formalizada a vacância de um cargo de juiz federal do Tribunal Regional 
@@ -84,8 +84,8 @@ um estado, é que o Conselho Federal da OAB assume a responsabilidade de elabora
 A alternativa D está incorreta . Embora o TRE e a sede do TRF estejam localizados no mesmo estado, a 
 jurisdição do TRF abrange mais de um estado, o que demanda a atuação do Conselho Federal da OAB para 
 a elaboração da lista de indicação para este tribunal. A competência do Conselho Secc ional restringe -se aos 
-órgãos de jurisdição estadual ou que tenham atuação limitada ao território do estado, como é o caso do TRE.","Art. 54. Compete ao Conselho Federal: XIII - elaborar as listas constitucionalmente previstas, para o preenchimento dos cargos nos tribunais judiciários de âmbito nacional ou interestadual, com advogados que estejam em pleno exercício da profissão, vedada a inclusão de nome de membro do próprio Conselho ou de outro órgão da OAB;, Art. 58. Compete privativamente ao Conselho Seccional: XIV - eleger as listas, constitucionalmente previstas, para preenchimento dos cargos nos tribunais judiciários, no âmbito de sua competência e na forma do Provimento do Conselho Federal, vedada a inclu são de membros do próprio Conselho e de qualquer órgão da OAB",A,True
-"QUESTÃO 03. Valmir, bacharel em Direito, aprovado no Exame da Ordem dos Advogados do Brasil, ocupa 
+órgãos de jurisdição estadual ou que tenham atuação limitada ao território do estado, como é o caso do TRE.","Art. 54. Compete ao Conselho Federal: XIII - elaborar as listas constitucionalmente previstas, para o preenchimento dos cargos nos tribunais judiciários de âmbito nacional ou interestadual, com advogados que estejam em pleno exercício da profissão, vedada a inclusão de nome de membro do próprio Conselho ou de outro órgão da OAB;, Art. 58. Compete privativamente ao Conselho Seccional: XIV - eleger as listas, constitucionalmente previstas, para preenchimento dos cargos nos tribunais judiciários, no âmbito de sua competência e na forma do Provimento do Conselho Federal, vedada a inclu são de membros do próprio Conselho e de qualquer órgão da OAB",A,True,Ética Profissional
+3,"QUESTÃO 03. Valmir, bacharel em Direito, aprovado no Exame da Ordem dos Advogados do Brasil, ocupa 
 o cargo público de agente de Polícia Civil do Estado Alfa . Movido por sentimento altruísta, Valmir requer 
 sua inscrição na OAB, pois pretende, nos momentos de folga da atividade policial, exercer a advocacia de 
 forma gratuita, eventual e voluntária, em favor de instituições sociais sem fins econômicos que não 
@@ -116,8 +116,8 @@ advocatícia.
 A alternativa D está incorreta . A situação de Valmir, como agente de Polícia Civil, não é de mero 
 impedimento, que restringiria sua atuação contra a Fazenda Pública que o remunera. Em vez disso, ela 
 configura uma incompatibilidade total com o exercício da advocacia, conforme determina o artigo 28 do 
-Estatuto da OAB, proibindo -o de exercer a advocacia e m qualquer contexto.","Artigo 28 do Estatuto da OAB, Estatuto da Advocacia e da OAB (Lei nº 8.906/1994), Incompatibilidade para o exercício da advocacia, Independência da advocacia",C,False
-"QUESTÃO 04. Sebastião, advogado, celebrou contrato de mandato com o cliente Amir, para representá -lo 
+Estatuto da OAB, proibindo -o de exercer a advocacia e m qualquer contexto.","Artigo 28 do Estatuto da OAB, Estatuto da Advocacia e da OAB (Lei nº 8.906/1994), Incompatibilidade para o exercício da advocacia, Independência da advocacia",C,False,Ética Profissional
+4,"QUESTÃO 04. Sebastião, advogado, celebrou contrato de mandato com o cliente Amir, para representá -lo 
 extrajudicialmente, tendo realizado diligências em prol da resolução do imbróglio.  Desde a celebração do 
 mandato, passaram -se mais de 20 (vinte) anos, mas as atividades para as quais Amir contratou Sebastião, 
 por sua própria natureza, se protraíram no tempo, sendo ainda necessária a Amir.  
@@ -154,8 +154,8 @@ Assim, entende -se que não havendo prazo, o mandado é dado por prazo indetermi
 A alternativa D está incorreta . Esta opção é incorreta porque, apesar de acertar ao dizer que o mandato não 
 se extinguiu pelo decurso do tempo, erra ao afirmar que é vedada a estipulação de prazo no contrato de 
 mandato. O Código Civil e o Estatuto da OAB permitem que as partes acordem sobre a duração do mandato, 
-incluindo a possibilidade de definir um prazo para sua vigência.","Código de Ética da OAB, Art. 16 do Código de Ética da OAB, Estatuto da Advocacia e a Ordem dos Advogados do Brasil (OAB), Código Civil brasileiro, Art. 682 do Código Civil",C,False
-"QUESTÃO 05. Antônio Oliveira, advogado, cometeu infração disciplinar no exercício de suas funções, 
+incluindo a possibilidade de definir um prazo para sua vigência.","Código de Ética da OAB, Art. 16 do Código de Ética da OAB, Estatuto da Advocacia e a Ordem dos Advogados do Brasil (OAB), Código Civil brasileiro, Art. 682 do Código Civil",C,False,Ética Profissional
+5,"QUESTÃO 05. Antônio Oliveira, advogado, cometeu infração disciplinar no exercício de suas funções, 
 submetendo -se a processo disciplinar perante o Tribunal de Ética e Disciplina do Conselho Seccional 
 competente.   
  Antônio contratou o advogado Pedro para defendê -lo no âmbito do processo disciplinar. No que diz 
@@ -187,8 +187,8 @@ A alternativa D está incorreta . De fato, após a apresentação da defesa pré
 relator do processo disciplinar tem a prerrogativa de recomendar o arquivamento da representação se 
 considerar que não há indícios suficientes de infração disciplinar. No entanto, est a decisão não é tomada de 
 forma liminar pelo relator de forma isolada, mas sim após análise e deliberação do órgão competente dentro 
-da OAB, geralmente a câmara ou o tribunal de ética e disciplina.","Estatuto da Advocacia e a Ordem dos Advogados do Brasil (OAB), artigo 72, Regulamento Geral da OAB, artigo 50, I, princípios do contraditório e da ampla defesa, Estatuto da OAB, artigo 77, princípio acusatório",A,False
-"QUESTÃO 06. Determinada sociedade de advogados deseja se associar a advogados que não a integram 
+da OAB, geralmente a câmara ou o tribunal de ética e disciplina.","Estatuto da Advocacia e a Ordem dos Advogados do Brasil (OAB), artigo 72, Regulamento Geral da OAB, artigo 50, I, princípios do contraditório e da ampla defesa, Estatuto da OAB, artigo 77, princípio acusatório",A,False,Ética Profissional
+6,"QUESTÃO 06. Determinada sociedade de advogados deseja se associar a advogados que não a integram 
 para prestação de serviços e participação nos resultados.  
 Segundo a legislação aplicável à formalização desse vínculo jurídico, assinale a opção que indica, 
 corretamente, a conclusão dos administradores da sociedade de advogados.  
@@ -219,8 +219,8 @@ A alternativa D está incorreta . Esta afirmação é incorreta porque o Estatut
 regulamentadoras não proíbem expressamente que um advogado celebre contratos de associação com mais 
 de uma sociedade de advogados, mesmo na mesma área territorial do respectivo Conselho Secc ional. A 
 regulamentação foca mais na transparência e nas condições da associação do que na limitação do número 
-de associações que um advogado pode estabelecer.","artigo 17-B do Estatuto da OAB, Estatuto da Ordem dos Advogados do Brasil (OAB), Lei nº 14.365, de 2022, parágrafo único do artigo 17-B",B,False
-"QUESTÃO 07. Monique, advogada regularmente inscrita nos quadros da OAB, é investigada em inquérito 
+de associações que um advogado pode estabelecer.","artigo 17-B do Estatuto da OAB, Estatuto da Ordem dos Advogados do Brasil (OAB), Lei nº 14.365, de 2022, parágrafo único do artigo 17-B",B,False,Ética Profissional
+7,"QUESTÃO 07. Monique, advogada regularmente inscrita nos quadros da OAB, é investigada em inquérito 
 policial por suspostos crimes praticados por motivo ligado ao exercício da advocacia, tendo sido presa em 
 flagrante, por crime da mesma espécie, em seu escri tório, enquanto atendia a um de seus clientes. 
 Considerando as disposições do Estatuto da Advocacia, é correto afirmar que:  
@@ -255,8 +255,8 @@ advogado, a legislação prevê especificamente a presença de um representante 
 Pública. A função da Defensoria Pública é distinta e, embora ambos se dediquem à de fesa dos direitos dos 
 cidadãos, as prerrogativas e obrigações de seus membros são regidas por normas diferentes. A presença de 
 um representante da OAB no auto de prisão em flagrante de um advogado é uma prerrogativa que visa 
-garantir o respeito às especificidades da profissão e aos direitos do advogado.","Estatuto da Advocacia e a Ordem dos Advogados do Brasil (OAB) - Lei nº 8.906/1994, artigo 7º, IV a VI do Estatuto da Advocacia (Lei nº 8.906/1994), artigo 7º do Estatuto da OAB",A,False
-"QUESTÃO 08. Mariângela, advogada trabalhista, foi intimada pelo juízo da Vara do Trabalho de sua cidade 
+garantir o respeito às especificidades da profissão e aos direitos do advogado.","Estatuto da Advocacia e a Ordem dos Advogados do Brasil (OAB) - Lei nº 8.906/1994, artigo 7º, IV a VI do Estatuto da Advocacia (Lei nº 8.906/1994), artigo 7º do Estatuto da OAB",A,False,Ética Profissional
+8,"QUESTÃO 08. Mariângela, advogada trabalhista, foi intimada pelo juízo da Vara do Trabalho de sua cidade 
 para comparecer a audiência única, designada para 16h15 de determinado dia.  
 Por estar amamentando sua filha Manuela, recém -nascida, Mariângela protocolou petição nos autos do 
 respectivo processo, requerendo preferência na ordem das audiências, mediante comprovação de sua 
@@ -289,8 +289,8 @@ para a advogada mulher, incluindo o direito de preferência em audiências para 
 amamentando, entre outras condições especiais ligadas à maternidade. Este direito é concedido mediante 
 a simples comprovação d a condição de lactante, sem que haja necessidade de ser a única advogada atuante 
 no processo. A legislação visa garantir condições adequadas para que as advogadas possam exercer suas 
-profissões sem prejuízo à maternidade e aos cuidados com seus filhos.","artigo 7º-A do Estatuto da OAB, Estatuto da Ordem dos Advogados do Brasil (OAB), Lei nº 13.363, de 2016",D,False
-"QUESTÃO 09. Uma norma jurídica não vale porque tem um determinado conteúdo... (Hans Kelsen).  O que 
+profissões sem prejuízo à maternidade e aos cuidados com seus filhos.","artigo 7º-A do Estatuto da OAB, Estatuto da Ordem dos Advogados do Brasil (OAB), Lei nº 13.363, de 2016",D,False,Ética Profissional
+9,"QUESTÃO 09. Uma norma jurídica não vale porque tem um determinado conteúdo... (Hans Kelsen).  O que 
 faz uma norma jurídica ser válida é tema central para a teoria e a Filosofia do Direito.  
 Segundo o Normativismo Jurídico de Hans Kelsen, conforme apresentado em seu livro Teoria Pura do 
 Direito, a validade da norma jurídica recai logicamente sobre uma categoria que é o ponto de partida do 
@@ -321,8 +321,8 @@ A alternativa D está incorreta . O direito das gentes, ou direito internacional
 que regula as relações entre os Estados. Embora importante, não é o fundamento último da validade jurídica 
 na perspectiva kelseniana. O conceito de norma fundamental pressupos ta se aplica tanto ao direito interno  
  quanto ao internacional, servindo como base lógica para a validade de todas as normas jurídicas, 
-independentemente da sua esfera de aplicação.","Normativismo em Hans Kelsen, Teoria Pura do Direito, norma fundamental (Grundnorm), hierarquia normativa, direito das gentes, direito internacional público",C,False
-"QUESTÃO 10. ""Portanto, a moralidade, e a humanidade enquanto capaz de moralidade, são as únicas 
+independentemente da sua esfera de aplicação.","Normativismo em Hans Kelsen, Teoria Pura do Direito, norma fundamental (Grundnorm), hierarquia normativa, direito das gentes, direito internacional público",C,False,Filosofia do Direito
+10,"QUESTÃO 10. ""Portanto, a moralidade, e a humanidade enquanto capaz de moralidade, são as únicas 
 coisas que têm dignidade."" Immanuel Kant.  
 O artigo primeiro da Constituição Federal de 1988 determina que a dignidade da pessoa humana é 
 fundamento da República. Filósofos e juristas há muito debatem o tema da dignidade.  
@@ -350,8 +350,8 @@ segundo princípios morais universais, que transcende quaisquer particula ridade
 A alternativa D está incorreta . Kant diferencia claramente entre amor -próprio, que pode ser condicional e 
 baseado em inclinações pessoais, e a dignidade, que é incondicional e fundamentada na racionalidade e 
 moralidade. A dignidade não é uma questão de autoestima, mas de reconhecimento  do valor intrínseco de 
-cada pessoa como um fim em si mesmo.","Metafísica dos Costumes de Immanuel Kant, Dignidade da pessoa humana, Autonomia, Racionalidade, Imperativo categórico",B,False
-"QUESTÃO 11. Em uma cidade situada no município Gama, José Silva sofreu grave acidente ao ser 
+cada pessoa como um fim em si mesmo.","Metafísica dos Costumes de Immanuel Kant, Dignidade da pessoa humana, Autonomia, Racionalidade, Imperativo categórico",B,False,Filosofia do Direito
+11,"QUESTÃO 11. Em uma cidade situada no município Gama, José Silva sofreu grave acidente ao ser 
 atropelado por um caminhão. Com lesões pelo corpo, ele foi conduzido ao hospital municipal situado na 
 cidade e, ao passar pelo setor de identificação, alguém não p ossuir consigo qualquer documento. Não 
 tendo tido acesso aos serviços de saúde do SUS (Sistema Único de Saúde), a direção do hospital consultou 
@@ -380,8 +380,8 @@ serviços de saúde estabelecida pela Constituição.
 A alternativa D está correta . Esta opção reflete exatamente o princípio de universalidade do acesso aos 
 serviços de saúde no Brasil, conforme previsto no artigo 196 da Constituição. José Silva tem direito a 
 atendimento pelo SUS independentemente de sua nacionalidade, situação de trab alho ou contribuição 
-previdenciária, uma vez que a saúde é um direito de todos os indivíduos.","Direito à Saúde, Artigo 196 da Constituição, Princípio de universalidade do acesso aos serviços de saúde",D,False
-"QUESTÃO 12. O Supremo Tribunal Federal (STF), por dois terços de seus membros, aprovou de ofício, no 
+previdenciária, uma vez que a saúde é um direito de todos os indivíduos.","Direito à Saúde, Artigo 196 da Constituição, Princípio de universalidade do acesso aos serviços de saúde",D,False,Direito Constitucional
+12,"QUESTÃO 12. O Supremo Tribunal Federal (STF), por dois terços de seus membros, aprovou de ofício, no 
 último mês, a Súmula Vinculante XXX, que versa sobre matéria tributária. O deputado federal João da 
 Silva mostrou -se preocupado com a referida súmula, pois  toma no conhecimento nacional projeto de lei 
 complementar que trará conflito fortemente com o da Súmula Vinculante XXX.  
@@ -420,8 +420,8 @@ do Congresso Nacional, o que não é verdade. Enquanto a súmula tem efeito vinc
 Judiciário e o Poder Executivo (incluindo suas administrações diretas e indire tas), não impede o Poder 
 Legislativo de exercer sua função de criar leis, mesmo que estas contrariem o entendimento consolidado em 
 uma súmula vinculante. O que acontece é que novas leis podem ser objeto de análise pelo STF qua nto à sua 
-constitucionalidade, mas isso não impede sua proposição ou aprovação pelo Legislativo.","Súmulas Vinculantes, Constituição Federal, Súmulas Vinculantes não vinculam o legislativo, Segurança Jurídica, Uniformidade de interpretação da legislação, Efeito vinculante sobre a administração pública direta e indireta nas esferas federal,  estadual e municipal, Autonomia do Poder Legislativo para legislar, Análise da constitucionalidade da nova legislação pelo STF",B,False
-"QUESTÃO 13. O Presidente da República almeja apresentar ao Poder Legislativo um projeto de lei sobre 
+constitucionalidade, mas isso não impede sua proposição ou aprovação pelo Legislativo.","Súmulas Vinculantes, Constituição Federal, Súmulas Vinculantes não vinculam o legislativo, Segurança Jurídica, Uniformidade de interpretação da legislação, Efeito vinculante sobre a administração pública direta e indireta nas esferas federal,  estadual e municipal, Autonomia do Poder Legislativo para legislar, Análise da constitucionalidade da nova legislação pelo STF",B,False,Direito Constitucional
+13,"QUESTÃO 13. O Presidente da República almeja apresentar ao Poder Legislativo um projeto de lei sobre 
 cláusula penal, de proteção ambiental e sua aprovação. Com isso, quer almejar um outro prisma da 
 questão durante sua campanha eleitoral. Por essa razão, co nsulta o Advogado -Geral da União para saber 
 qual é a correta orientação constitucional a ser observada para a concretização do seu objetivo.  
@@ -461,8 +461,8 @@ Presidente da República a competência para elaborar normas sobre determinados 
 processo é menos comum e requer a edição de um decreto legislativo pelo Congres so Nacional especificando 
 o conteúdo e os termos da delegação. Além disso, não é o procedimento mais ágil ou adequado para a 
 situação descrita, na qual se busca a aprovação rápida de um projeto específico com a possibilidade d e 
-discussão e emendas por parte do Congresso.","Medida provisória (MP), Artigo 64, §§ 1º e 2º, da Constituição Federal",B,False
-"QUESTÃO 14. Determinada associação nacional, que congrega oficiais de registro e notários, foi 
+discussão e emendas por parte do Congresso.","Medida provisória (MP), Artigo 64, §§ 1º e 2º, da Constituição Federal",B,False,Direito Constitucional
+14,"QUESTÃO 14. Determinada associação nacional, que congrega oficiais de registro e notários, foi 
 surpreendida com a publicação de lei federal X, que muda a destinação dos emolumentos cartorários, de 
 modo que uma parte dos valores arrecadados passaria a ser d estinada a políticas públicas do governo 
 federal na área de educação. Considerando a iminente perda de arrecadação, a associação procurou você, 
@@ -497,8 +497,8 @@ A alternativa D está incorreta . A premissa está equivocada. A Constituição 
 cartorários ao custeio da seguridade social, mas sim ao custeio das atividades específicas da Justiça. Embora 
 a destinação dos emolumentos conforme a Lei Federal X para educação afronte a ordem constitucional, a 
 justificativa correta é a vinculação exclusiva desses recursos ao custeio das atividades da Justiça, conforme 
-estabelecido constitucionalmente.","Constituição Federal, artigo 98, § 2º, Constituição Federal, Emolumentos (taxas cobradas pelos serviços cartorários), destinação dos emolumentos cartorários é constitucionalmente limitada ao custeio das atividades específicas da Justiça",B,False
-"QUESTÃO 15. Depois da ocorrência de calamidade de grandes proporções, em razão de enchentes 
+estabelecido constitucionalmente.","Constituição Federal, artigo 98, § 2º, Constituição Federal, Emolumentos (taxas cobradas pelos serviços cartorários), destinação dos emolumentos cartorários é constitucionalmente limitada ao custeio das atividades específicas da Justiça",B,False,Direito Constitucional
+15,"QUESTÃO 15. Depois da ocorrência de calamidade de grandes proporções, em razão de enchentes 
 causadas por chuvas intensas e de longa duração e com efeitos devastadores, e, além disso, classificada 
 como “sem precedentes”, o Presidente da República vislumbra a possibilidade de decretação de estado 
 de defesa para combater o quadro caótico no qual se encontram algumas cidades de uma determinada 
@@ -531,8 +531,8 @@ independentemente do calendário legislativo.
 A alternativa D está incorreta . A Constituição Federal já define expressamente o prazo de duração do estado 
 de defesa, não deixando margem para definição discricionária pelo Congresso Nacional ou pelo Presidente. 
 A separação dos poderes, neste caso, é respeitada pela obrigatoriedade de  comunicação ao Congresso 
-Nacional sobre a decretação e os limites temporais pré -estabelecidos na própria Constituição.","artigo 136 da Constituição Federal, Estado de Defesa",B,False
-"QUESTÃO 16. Uma Proposta de Emenda à Constituição (PEC) é apresentada por um grupo de deputados 
+Nacional sobre a decretação e os limites temporais pré -estabelecidos na própria Constituição.","artigo 136 da Constituição Federal, Estado de Defesa",B,False,Direito Constitucional
+16,"QUESTÃO 16. Uma Proposta de Emenda à Constituição (PEC) é apresentada por um grupo de deputados 
 federais, com fim de autorizar a orçamentação constitucional, cujo objeto é a alteração do Art. 60, § 4º, 
 inciso II, da CRFB/88, que passaria a ter a seguinte r edação: O voto direto, secreto, universal e periódico.  
 Depois de aprovada pelas comissões competentes, os autores da proposta solicitaram ao Presidente da 
@@ -577,8 +577,8 @@ ao devido processo legislativo, especialmente quando se trata de impedir a delib
 Emenda à Constituição (PEC) que possa violar cláusulas pétreas da Constituição, como estabelecido no artigo 
 60, § 4º. Isso constitui um m ecanismo de controle judicial preventivo de constitucionalidade, permitindo ao 
 Supremo Tribunal Federal (STF) intervir antes que uma norma potencialmente inconstitucional seja 
-promulgada.","Controle de constitucionalidade, Artigo 5º, inciso LXIX, da Constituição Federal, Artigo 60, § 4º da Constituição Federal, Mandado de segurança, Direito líquido e certo, Habeas corpus, Habeas data, Devido processo legislativo, Cláusulas pétreas",D,False
-"QUESTÃO 17. STJ transfere à Justiça Federal apuração da morte de líderes de trabalhadores rurais em 
+promulgada.","Controle de constitucionalidade, Artigo 5º, inciso LXIX, da Constituição Federal, Artigo 60, § 4º da Constituição Federal, Mandado de segurança, Direito líquido e certo, Habeas corpus, Habeas data, Devido processo legislativo, Cláusulas pétreas",D,False,Direito Constitucional
+17,"QUESTÃO 17. STJ transfere à Justiça Federal apuração da morte de líderes de trabalhadores rurais em 
 Rondônia . A pedido da Procuradoria -Geral da República (PGR), a Terceira Seção do Superior Tribunal de 
 Justiça (STJ) determinou a transferência, para a Justiça Federal, de seis inquéritos relativos a crimes de 
 homicídio praticados contra líderes de trabalhadores rura is e outras pessoas que denunciaram grilagem 
@@ -604,8 +604,8 @@ marcado pela atuação de grupos de extermínio, co m envolvimento de agentes da
 controle sobre terras no estado de Rondônia.  
 A alternativa A está incorreta , pois não se trata de ADPF, além disso, nem poderia, pois tal ação de controle 
 concentrado de constitucionalidade sequer compete ao STJ, mas apenas ao STF.  
-As alternativas C e D estão incorretas , conforme comentários à alternativa B.","Incidente de Deslocamento de Competência (IDC), Art. 109, § 5º da CRFB, Emenda Constitucional n.º 45/2004, Obrigações decorrentes de tratados internacionais de direitos humanos dos quais o Brasil seja parte",B,False
-"QUESTÃO 18. Os conflitos armados, infelizmente, são uma realidade que afeta diferentes países. As quatro 
+As alternativas C e D estão incorretas , conforme comentários à alternativa B.","Incidente de Deslocamento de Competência (IDC), Art. 109, § 5º da CRFB, Emenda Constitucional n.º 45/2004, Obrigações decorrentes de tratados internacionais de direitos humanos dos quais o Brasil seja parte",B,False,Direitos Humanos
+18,"QUESTÃO 18. Os conflitos armados, infelizmente, são uma realidade que afeta diferentes países. As quatro 
 Convenções de Genebra de 1949 conformam a base do Direito Internacional Humanitário.  
 Em comum às quatro Convenções está o Art. 3º que, entre outros dispositivos, determina o tratamento 
 humano para todos os indivíduos em poder do inimigo, sem nenhuma distinção adversa. Proíbe, 
@@ -626,8 +626,8 @@ promulgadas pelo Decreto n.º 42.121/1957, de modo que a letra A corresponde a �
 conforme o artigo 3º: “Artigo 3º No caso de confli to armado sem caráter internacional e que surja no 
 território de uma das Altas Partes Contratantes, cada uma das Partes em luta será obrigada a aplicar pelo 
 menos, as seguintes disposições”.  
-As alternativas B, C e D estão incorretas , conforme comentário à alternativa A.","Convenções de Genebra de 1949, Decreto n.º 42.121/1957, Artigo 3º",A,False
-"QUESTÃO 19. João, candidato ao cargo eletivo de prefeito municipal, logrou ser eleito. No entanto, por 
+As alternativas B, C e D estão incorretas , conforme comentário à alternativa A.","Convenções de Genebra de 1949, Decreto n.º 42.121/1957, Artigo 3º",A,False,Direitos Humanos
+19,"QUESTÃO 19. João, candidato ao cargo eletivo de prefeito municipal, logrou ser eleito. No entanto, por 
 ser muito desorganizado, não conseguiu localizar os documentos necessários para a prestação de contas 
 à Justiça Eleitoral, o que resultou na não apresent ação dessas contas.   
 Sobre as consequências da omissão de João, assinale a afirmativa correta.   
@@ -641,8 +641,8 @@ A alternativa A está correta , pois a ausência de prestação de contas result
 diplomação, nos termos do art. 29, §2º, da Lei nº 9.504/97 (Lei das Eleições): “Art. 29. § 2º A inobservância 
 do prazo para encaminhamento das prestações de contas impede a diplomação dos eleitos, enquanto 
 perdurar”.   
-As alternativas B, C e D estão incorretas , pelo fundamento exposto na alternativa A.","art. 29, §2º, da Lei nº 9.504/97 (Lei das Eleições)",A,False
-"QUESTÃO 20. Entre os correligionários do partido político Alfa estavam dois dos pré -candidatos 
+As alternativas B, C e D estão incorretas , pelo fundamento exposto na alternativa A.","art. 29, §2º, da Lei nº 9.504/97 (Lei das Eleições)",A,False,Direito Eleitoral
+20,"QUESTÃO 20. Entre os correligionários do partido político Alfa estavam dois dos pré -candidatos 
 considerados favoritos na eleição para governador do Estado Beta. Como somente um deles poderia ser 
 escolhido por Alfa para concorrer ao referido cargo eletivo, houve grande interesse dos meios de 
 comunicação social na cobertura das prévias partidárias.   
@@ -666,8 +666,8 @@ da cobertura dos meios de comunicação social (Lei nº 9.504/1997, art . 36-A, 
 importante a leitura da íntegra da Resolução do Tribunal Superior Eleitoral (TSE) nº 23.610/2019, que trata 
 da propaganda eleitoral, tendo em vista que passou a vigorar com novo texto, após  a aprovação da 
 Resolução nº 23.732/2024. A norma traz regras já conhecidas e novidades impostas pelo avanço tecnológico, 
-como o uso de inteligência artificial (IA).","art. 3º, §1º, da Resolução nº 23.610/2019 do TSE, Lei nº 9.504/1997, art . 36-A, § 1º, Resolução nº 23.610/2019 do TSE, Resolução nº 23.732/2024",D,False
-"QUESTÃO 21. Uma sociedade empresária colombiana celebrou, na Inglaterra, com uma sociedade alemã, 
+como o uso de inteligência artificial (IA).","art. 3º, §1º, da Resolução nº 23.610/2019 do TSE, Lei nº 9.504/1997, art . 36-A, § 1º, Resolução nº 23.610/2019 do TSE, Resolução nº 23.732/2024",D,False,Direito Eleitoral
+21,"QUESTÃO 21. Uma sociedade empresária colombiana celebrou, na Inglaterra, com uma sociedade alemã, 
 um contrato para a entrega de 500 (quinhentas) sacas de café tipo arábica no Porto de Santos, Brasil, sem 
 cláusula de eleição de foro exclusivo.  
 Durante o transporte, houve um acidente com a embarcação, que acarretou o perecimento da mercadoria.  
@@ -694,8 +694,8 @@ Assim, interpretando a contrário senso, nos casos em que a lei não delimita a 
 possível que, por exemplo, a jurisdição do país onde foi celebrado o contrato (Inglaterra) ou de onde é 
 sediada a empresa (Colômbia) seja provocada pelas  partes contratantes, razão pela qual, a competência da 
 jurisdição brasileira é concorrente.  
-As alternativas A, B e C estão incorretas , conforme comentário à alternativa D.","Direito Internacional Privado, LINDB: Art. 12, CPC: Art. 21, Soberania nacional, Competência da jurisdição brasileira é concorrente",D,False
-"QUESTÃO 22. A Fundação de Juristas Moçambique -Brasil, associação privada de fim de interesse coletivo, 
+As alternativas A, B e C estão incorretas , conforme comentário à alternativa D.","Direito Internacional Privado, LINDB: Art. 12, CPC: Art. 21, Soberania nacional, Competência da jurisdição brasileira é concorrente",D,False,Direito Internacional
+22,"QUESTÃO 22. A Fundação de Juristas Moçambique -Brasil, associação privada de fim de interesse coletivo, 
 constituiu -se na década de 1990, na cidade de Maputo, capital de Moçambique, e pretende abrir filial no 
 Brasil. Você, advogado(a) especializado em Direit o Internacional, é procurado pela Fundação para avaliar 
 a pretensão do caso em tela.  
@@ -717,8 +717,8 @@ os atos constitutivos aprovados pelo Governo brasileiro, ficando sujeitas à lei
 As alternativas A e C estão incorretas , pois não há necessidade de decisão judicial ou legislativa autorizativa, 
 mas de decisão meramente administrativa.  
 A alternativa D está incorreta , pois a aprovação dos atos constitutivos dar -se-á pelo governo brasileiro e não 
-de Moçambique.","Art. 11, § 1º, da LINDB",B,False
-"QUESTÃO 23. A Escolinha do Gol, entidade privada sem fins lucrativos, que realiza sua função social de 
+de Moçambique.","Art. 11, § 1º, da LINDB",B,False,Direito Internacional
+23,"QUESTÃO 23. A Escolinha do Gol, entidade privada sem fins lucrativos, que realiza sua função social de 
 fomento ao esporte no Município Alfa, Estado Beta, entre os anos de 2020 a 2022, recebeu diretamente 
 da União a quantia de R$ 100.000,00 (cem mil reais) para financiar seu programa beneficente de ensino e 
 treinamento de futebol para crianças carentes da localidade.   
@@ -757,8 +757,8 @@ A alternativa D está incorreta , pois a fiscalização dos recursos públicos r
 finalidade o controle acerca da sua aplicação. Nesse sentido, dispõe o art. 70, parágrafo único, da 
 Constituição Federal: “Art. 70. Parágrafo único. Prestará contas qualquer pessoa física ou jurídica, pública 
 ou privada, que utilize, arrecade, guarde, gerencie ou administre dinheiros, bens e valores públicos ou pelos 
-quais a União responda, ou que, em nome desta, assuma obrigações de natureza pecuniária” .","Dever de prestar contas, Art. 70, parágrafo único, da Constituição Federal, Art. 71, VI, da Constituição Federal",C,False
-"QUESTÃO 24. O Presidente da República se quedou inerte quanto à elaboração e ao envio do projeto de 
+quais a União responda, ou que, em nome desta, assuma obrigações de natureza pecuniária” .","Dever de prestar contas, Art. 70, parágrafo único, da Constituição Federal, Art. 71, VI, da Constituição Federal",C,False,Direito Financeiro
+24,"QUESTÃO 24. O Presidente da República se quedou inerte quanto à elaboração e ao envio do projeto de 
 Lei Orçamentária Anual (LOA) da União para aprovação do Congresso Nacional no prazo estabelecido pela 
 CRFB/88. O Presidente do Congresso Nacional, então, as sumiu a responsabilidade de elaboração de um 
 novo projeto de LOA e de envio para tramitação e aprovação de ambas as Casas do Congresso Nacional.   
@@ -803,8 +803,8 @@ Congresso Nacional é de competência privativa do Presidente da República, nã
 seja exercida por pessoa diversa, nem mesmo em caráter excepcional. De acordo com o STF: “O rçamento 
 anual. Competência privativa. Por força de vinculação administrativo -constitucional, a competência para 
 propor orçamento anual é privativa do chefe do Poder Executivo. [ADI 882, rel. min. Maurício Corrêa, j. 19 -
-2-2004, P, DJ de 23 -4-2004.] = ADI 2 .447, rel. min. Joaquim Barbosa, j. 4 -3-2009, P, DJE de 4 -12-2009”.","Art. 165, III, da Constituição Federal, Art. 166, § 6º, da Constituição Federal, Entendimento do STF sobre a competência privativa do Presidente da República na elaboração e envio da LOA ao Congresso Nacional, ADI 882, ADI 2.447, Art. 32 da Lei nº 4.320/64, Lei Orçamentária Anual é lei ordinária, Vício de iniciativa",A,False
-"QUESTÃO 25. O Munic ípio Alfa pretende firmar conv ênio com a Uni ão para fiscalizar e arrecadar 
+2-2004, P, DJ de 23 -4-2004.] = ADI 2 .447, rel. min. Joaquim Barbosa, j. 4 -3-2009, P, DJE de 4 -12-2009”.","Art. 165, III, da Constituição Federal, Art. 166, § 6º, da Constituição Federal, Entendimento do STF sobre a competência privativa do Presidente da República na elaboração e envio da LOA ao Congresso Nacional, ADI 882, ADI 2.447, Art. 32 da Lei nº 4.320/64, Lei Orçamentária Anual é lei ordinária, Vício de iniciativa",A,False,Direito Financeiro
+25,"QUESTÃO 25. O Munic ípio Alfa pretende firmar conv ênio com a Uni ão para fiscalizar e arrecadar 
 diretamente o Imposto sobre a Propriedade Territorial Rural (ITR) dos im óveis rurais situados em seu 
 territ ório. Acerca dessa pretens ão municipal, assinale a afirmativa correta.  
 a) Tal convênio, caso firmado, configura um exemplo de transferência de competência tributária plena da 
@@ -830,8 +830,8 @@ redução do imposto ou qualquer outra forma de renúncia fiscal”
 A alternativa C está incorreta,  pois (i) é possível a delegação da capacidade tributária ativa, conforme art. 7º, 
 caput , do CTN e (ii) o convênio é previsto no art. 153, §4º, III, da CF.  
 A alternativa D está incorreta,  pois haverá delegação das atribuições de cobrança e fiscalização aos 
-Municípios, conforme art. 153, §4º, III, da CF.","Competência tributária, Repartição de receitas tributárias, Art. 7º, caput, do CTN, Art. 158, II, da CF, Art. 153, § 4º, III, da CF",B,False
-"QUESTÃO 26. Jo ão e Jos é decidem constituir uma sociedade empres ária, denominada Informática ABC 
+Municípios, conforme art. 153, §4º, III, da CF.","Competência tributária, Repartição de receitas tributárias, Art. 7º, caput, do CTN, Art. 158, II, da CF, Art. 153, § 4º, III, da CF",B,False,Direito Tributário
+26,"QUESTÃO 26. Jo ão e Jos é decidem constituir uma sociedade empres ária, denominada Informática ABC 
 Ltda. , especializada na prestação de serviços na área de informática. João integralizou 50% do capital  
  social da sociedade com dinheiro, e José integralizou os seus 50% com um imóvel de sua propriedade 
 localizado no Município Alfa , a ser utilizado como sede da empresa.  
@@ -863,8 +863,8 @@ A alternativa D está correta,  pois revela o teor do art. 156, §2º, I, da CF:
 não incide sobre a transmissão de bens ou direitos incorporados ao patrimônio de pessoa jurídica em 
 realização de capital, nem sobre a transmissão de bens ou direitos d ecorrente de fusão, incorporação, cisão 
 ou extinção de pessoa jurídica, salvo se, nesses casos, a atividade preponderante do adquirente for a compra 
-e venda desses bens ou direitos, locação de bens imóveis ou arrendamento merca ntil”.","imunidade tributária, art. 151, III, da CF, art. 156, §2º, I, da CF",D,False
-"QUESTÃO 27. A sociedade empres ária Books & Books Ltda. , verificando a queda na receita de venda de 
+e venda desses bens ou direitos, locação de bens imóveis ou arrendamento merca ntil”.","imunidade tributária, art. 151, III, da CF, art. 156, §2º, I, da CF",D,False,Direito Tributário
+27,"QUESTÃO 27. A sociedade empres ária Books & Books Ltda. , verificando a queda na receita de venda de 
 livros impressos e o fechamento de inúmeras outras livrarias locais, decide alterar seu negócio para 
 importação e comercialização no mercado interno de livros eletrônicos acompanhados dos respectivos 
 aparelhos exclusivamente leitores.  
@@ -886,8 +886,8 @@ constante do art. 150, VI, d, da CF/88 aplica -se à importação e comercializa
 eletrônico ( e-book ) e dos suportes exclusivamente utilizados para fixá -los, como leitores de livros eletrônicos 
 (e-readers ), ainda que possuam funcionalidades acessórias.”  
 A questão aborda o tema imunidade tributária.  
-As alternativas B, C e D contrariam o enunciado da Súmula Vinculante 57, logo são incorretas.","Súmula Vinculante 57, Art. 150, VI, d, da CF/88, imunidade tributária",A,False
-"QUESTÃO 28. Para conter a escalada de pre ços dos combust íveis que vem afetando a economia nacional, 
+As alternativas B, C e D contrariam o enunciado da Súmula Vinculante 57, logo são incorretas.","Súmula Vinculante 57, Art. 150, VI, d, da CF/88, imunidade tributária",A,False,Direito Tributário
+28,"QUESTÃO 28. Para conter a escalada de pre ços dos combust íveis que vem afetando a economia nacional, 
 a equipe econ ômica do governo federal estuda a possibilidade de conceder, mediante lei complementar 
 editada exclusivamente para tal fim, uma isen ção tempor ária de um ano sobre todos os tributos federais 
 e estaduais incidentes sobre os combust íveis (petr óleo e derivados), atendendo aos requisitos das leis 
@@ -913,8 +913,8 @@ tributos da competência dos Estados, do Distrito Federal ou dos Municípios.”
 conforme dispõe a CF: “Art. 145. A União, os Estados, o Distrito Federal e os Municípios poderão instituir os 
 seguintes tributos: I - impostos; II - taxas, em razão do exercício do po der de polícia ou pela utilização, efetiva 
 ou potencial, de serviços públicos específicos e divisíveis, prestados ao contribuinte ou postos a sua 
-disposição; III - contribuição de melhoria, decorrente de obras públicas.”","vedação à concessão de isenção heterônoma, inciso III do artigo 151 da CF, art. 151, III, da CF, Art. 145. A União, os Estados, o Distrito Federal e os Municípios poderão instituir os seguintes tributos: I - impostos; II - taxas, em razão do exercício do po der de polícia ou pela utilização, efetiva ou potencial, de serviços públicos específicos e divisíveis, prestados ao contribuinte ou postos a sua disposição; III - contribuição de melhoria, decorrente de obras públicas., CF",C,False
-"QUESTÃO 29. Determinado pa ís declarou guerra ao Brasil. Para fazer frente aos gastos com o esfor ço de 
+disposição; III - contribuição de melhoria, decorrente de obras públicas.”","vedação à concessão de isenção heterônoma, inciso III do artigo 151 da CF, art. 151, III, da CF, Art. 145. A União, os Estados, o Distrito Federal e os Municípios poderão instituir os seguintes tributos: I - impostos; II - taxas, em razão do exercício do po der de polícia ou pela utilização, efetiva ou potencial, de serviços públicos específicos e divisíveis, prestados ao contribuinte ou postos a sua disposição; III - contribuição de melhoria, decorrente de obras públicas., CF",C,False,Direito Tributário
+29,"QUESTÃO 29. Determinado pa ís declarou guerra ao Brasil. Para fazer frente aos gastos com o esfor ço de 
 guerra, a Uni ão resolveu criar, por lei federal ordin ária, um imposto extraordin ário de guerra, com a 
 mesma hip ótese de incid ência do Imposto sobre a Transmiss ão Causa Mortis  e Doações.  
 A alíquota fixada pela lei federal era de 1% sobre o valor da doação ou do montante transmitido causa 
@@ -940,8 +940,8 @@ no inciso II do art. 154.
 A alternativa D está correta,  pois o imposto deverá ser suprimido gradativamente quando cessadas as causas 
 de sua criação, conforme art. 154, II, da CF: “A União poderá instituir na iminência ou no caso de guerra 
 externa, impostos extraordinários, compreendidos ou não em sua competênc ia tributária, os quais serão 
-suprimidos, gradativamente, cessadas as causas de sua criação”.","art. 154, II, da CF, Lei Ordinária, bitributação permitida pela própria Constituição Federal, imposto deverá ser suprimido gradativamente quando cessadas as causas de sua criação",D,False
-"QUESTÃO 30. Vicente, servidor público federal estável, praticou conduta que corresponde a crime, na 
+suprimidos, gradativamente, cessadas as causas de sua criação”.","art. 154, II, da CF, Lei Ordinária, bitributação permitida pela própria Constituição Federal, imposto deverá ser suprimido gradativamente quando cessadas as causas de sua criação",D,False,Direito Tributário
+30,"QUESTÃO 30. Vicente, servidor público federal estável, praticou conduta que corresponde a crime, na 
 forma da legislação penal, e se enquadra como falta funcional grave, passível de demissão.  
  Ao tomar conhecimento de tal situação, a Administração determino u a instauração de processo 
 administrativo disciplinar, com a designação da Comissão processante, composta por três servidores 
@@ -977,8 +977,8 @@ administrativas poderão cumular -se, sendo independentes entre si.”  Assim se
 denúncia na seara criminal não interfere no processamento administrativo disciplinar do servidor.  
 A alternativa D está incorreta , tendo em vista a apontada independência das instâncias penal, civil e 
 administrativa, sendo certo que a absolvição criminal por insuficiência de provas não constitui uma das 
-exceções contempladas em nossa legislação.","Art. 121 da Lei 8.112/90, Art. 149 da Lei 8.112/90, § 3o do art. 143 da Lei 8.112/90, Art. 125 da Lei 8.112/90",B,False
-"QUESTÃO 31. A sociedade empresária Sabiá tomou conhecimento de um edital de licitação elaborado pelo 
+exceções contempladas em nossa legislação.","Art. 121 da Lei 8.112/90, Art. 149 da Lei 8.112/90, § 3o do art. 143 da Lei 8.112/90, Art. 125 da Lei 8.112/90",B,False,Direito Administrativo
+31,"QUESTÃO 31. A sociedade empresária Sabiá tomou conhecimento de um edital de licitação elaborado pelo 
 Município Alfa para promover a permissão de determinado serviço público de competência local, razão 
 pela qual procura sua assessoria jurídica, a fim de dir imir algumas dúvidas acerca da mencionada 
 modalidade de delegação.  
@@ -1007,8 +1007,8 @@ exigência pertinente às concessões especiais de serviços públicos, via cont
 privadas, o que não é o caso das permissões de serviços públicos.  
 A alternativa D está correta , tendo em vista que seu teor está perfeitamente alinhado ao conceito legal de 
 permissão de serviços públicos, consoante art. 2º, IV, da Lei 8.987/95, transcrito nos comentários à 
-alternativa A.","art. 2º, IV, da Lei 8.987/95, art. 175, caput da Constituição da República",D,False
-"QUESTÃO 32. Jamile, após aprovação em concurso público, foi investida em cargo efetivo na Secretaria de 
+alternativa A.","art. 2º, IV, da Lei 8.987/95, art. 175, caput da Constituição da República",D,False,Direito Administrativo
+32,"QUESTÃO 32. Jamile, após aprovação em concurso público, foi investida em cargo efetivo na Secretaria de 
 Administração do Estado Alfa, no qual alcançou a estabilidade.  
 No entanto, o mencionado ente federativo decidiu reformular o seu quadro de pessoal, de modo que, 
 após o devido processo legislativo, fez publicar a Lei XYX que extinguiu a carreira e, consequentemente, o 
@@ -1037,8 +1037,8 @@ público, de maneira que não poderia ser exonerada, mas sim colocada em disponi
 aproveitamento em outro cargo.  
 A alternativa D está correta , porquanto em linha com o art. 41, §3º, da CRFB, segundo o qual “Extinto o cargo 
 ou declarada a sua desnecessidade, o servidor estável ficará em disponibilidade, com remuneração 
-proporcional ao tempo de serviço, até seu adequado aproveitamento em outro ca rgo.”","art. 30 da Lei 8.112/90, art. 41, §3º, da CRFB",D,False
-"QUESTÃO 33. Marcelo, servidor público federal estável, aposentou -se por invalidez. Meses depois, uma 
+proporcional ao tempo de serviço, até seu adequado aproveitamento em outro ca rgo.”","art. 30 da Lei 8.112/90, art. 41, §3º, da CRFB",D,False,Direito Administrativo
+33,"QUESTÃO 33. Marcelo, servidor público federal estável, aposentou -se por invalidez. Meses depois, uma 
 junta médica oficial declarou insubsistentes os motivos de sua aposentadoria.   
 Consoante a Lei nº 8.112/90, que dispõe sobre o regime jurídico dos servidores públicos civis da União, o 
 retorno de Marcelo à atividade, por meio de provimento de cargo público derivado por reingresso, se dará 
@@ -1061,8 +1061,8 @@ A alternativa C está correta , porquanto afina -se com a regra contida no art. 
 o qual “Reversão é o retorno à atividade de servidor aposentado: por invalidez, quando junta médica oficial 
 declarar insubsistentes os motivos da aposentadoria;”  
 A alternativa D está incorreta , na medida em que o enunciado não narra hipótese de readaptação, mas sim 
-de reversão, como acima fundamentado nos comentários à letra C.","art. 25, I, da Lei 8.112/90, Reversão",C,False
-"QUESTÃO 34. O Ministério Público Federal ajuizou ação buscando responsabilização judicial da Sociedade 
+de reversão, como acima fundamentado nos comentários à letra C.","art. 25, I, da Lei 8.112/90, Reversão",C,False,Direito Administrativo
+34,"QUESTÃO 34. O Ministério Público Federal ajuizou ação buscando responsabilização judicial da Sociedade 
 Empresária Delta pela prática de atos lesivos à Administração Pública que atentaram contra o patrimônio 
 público nacional.  
 Na inicial, imputa -se à citada pessoa jurídica a prática de atos que dificultaram atividade de fiscalização 
@@ -1099,8 +1099,8 @@ A alternativa D está correta , tendo em vista que devidamente embasada na norma
 Lei Anticorrupção, litteris:  “A dissolução compulsória da pessoa jurídica será determinada quando 
 comprovado: ter sido a personalidade jurídica utilizada de forma habitual para facilitar ou promover a prática 
 de atos ilícitos; ou ter sido constituída para ocultar ou dissimular intere sses ilícitos ou a identidade dos 
-beneficiários dos atos praticados.”","Lei Anticorrupção, Art. 19, III, Lei Anticorrupção, Art. 5º, Lei Anticorrupção, Art. 19, §1º, I e II, Lei Anticorrupção",D,False
-"QUESTÃO 35. Município Alfa  criou regularmente uma Unidade de Conservação (UC), por meio de decreto 
+beneficiários dos atos praticados.”","Lei Anticorrupção, Art. 19, III, Lei Anticorrupção, Art. 5º, Lei Anticorrupção, Art. 19, §1º, I e II, Lei Anticorrupção",D,False,Direito Administrativo
+35,"QUESTÃO 35. Município Alfa  criou regularmente uma Unidade de Conservação (UC), por meio de decreto 
 do Prefeito. Três anos depois, mediante a realização de novos estudos técnicos e de consulta pública, o  
  chefe do Executivo municipal se convenceu de que deveria reduzir os limites geográficos da Unidade de 
 Conservação.  
@@ -1127,8 +1127,8 @@ conforme o referido dispositivo legal, a redução dos limites geográficos pre 
 municipal só poderia ser realizada mediante Lei específica, sendo inviável a sua concretização via Decreto.  
 A alternativa D está incorreta , pois somente a ampliação dos limites de uma UC pode ser feita por 
 instrumento normativo do mesmo nível hierárquico do que criou a unidade, conforme art. 22, §6º, da Lei 
-Federal nº 9.985/2000.","Lei Federal nº 9.985/2000, art. 22, §7º, da Lei Federal nº 9.985/2000, art. 22, §6º, da Lei Federal nº 9.985/2000",C,False
-"QUESTÃO 36. A sociedade empresária Gama  requereu licença ambiental para empreender um aterro 
+Federal nº 9.985/2000.","Lei Federal nº 9.985/2000, art. 22, §7º, da Lei Federal nº 9.985/2000, art. 22, §6º, da Lei Federal nº 9.985/2000",C,False,Direito Ambiental
+36,"QUESTÃO 36. A sociedade empresária Gama  requereu licença ambiental para empreender um aterro 
 sanitário. O processo de licenciamento ambiental tramita no órgão licenciador competente.  
 No curso do procedimento, observadas as cautelas legais necessárias, o licenciador deferiu licença na fase 
 inicial do planejamento do empreendimento, aprovando sua localização e concepção, atestando a 
@@ -1169,8 +1169,8 @@ A alternativa C está incorreta , dado que não há previsão na Resolução CON
 de funcionamento ou licença ambiental simplificada.  
 A alternativa D está incorreta , pois não traz o conceito correto de licença de instalação previsto no art. 8º, 
 inciso II, da Resolução CONAMA nº 237/1997, além de que a licença de operação não é deferida na fase 
-inicial do planejamento.","art. 8º, inciso I, da Resolução CONAMA nº 237/1997, art. 8º, parágrafo único, da Resolução CONAMA nº 237/1997, art. 8º, inciso III, da Resolução CONAMA nº 237/1997, art. 8º, inciso II, da Resolução CONAMA nº 237/1997",A,False
-"QUESTÃO 37. Vitória e Rodrigo foram casados, em regime de comunhão parcial de bens, e são pais de 
+inicial do planejamento.","art. 8º, inciso I, da Resolução CONAMA nº 237/1997, art. 8º, parágrafo único, da Resolução CONAMA nº 237/1997, art. 8º, inciso III, da Resolução CONAMA nº 237/1997, art. 8º, inciso II, da Resolução CONAMA nº 237/1997",A,False,Direito Ambiental
+37,"QUESTÃO 37. Vitória e Rodrigo foram casados, em regime de comunhão parcial de bens, e são pais de 
 Mariana. Quando Mariana atingiu 16 (dezesseis) anos, os pais divorciaram -se, passando a residir em lares 
 distintos e a compartilhar a guarda de Mariana. Maria na passou a residir com o pai.   
 A respeito do dever de educação de Mariana, assinale a afirmativa correta.   
@@ -1191,8 +1191,8 @@ familiar, que consiste em, quanto aos filhos: I - dirigir -lhes a criação e a 
 As alternativas B, C e D estão incorretas . De acordo com o art. 1.579 do Código Civil: “O divórcio não 
 modificará os direitos e deveres dos pais em relação aos filhos”. Dessa forma, mantém -se o dever de Vitória 
 e Rodrigo quanto à educação de Mariana, nos termos do art. 1.566, IV, do Código Civil:  “Art. 1.566. São 
-deveres de ambos os cônjuges: IV - sustento, guarda e educação dos filhos”.","Art. 1.566, IV, do Código Civil, Art. 1.634, I, do Código Civil, Art. 1.579 do Código Civil",A,False
-"QUESTÃO 38. Joana trabalhou por 15 anos como empregada doméstica na residência de Alzira, um imóvel 
+deveres de ambos os cônjuges: IV - sustento, guarda e educação dos filhos”.","Art. 1.566, IV, do Código Civil, Art. 1.634, I, do Código Civil, Art. 1.579 do Código Civil",A,False,Direito Civil
+38,"QUESTÃO 38. Joana trabalhou por 15 anos como empregada doméstica na residência de Alzira, um imóvel 
 de 60 metros quadrados, herdado de seu falecido pai. Durante todo esse período, Joana percebeu salários 
 mensais, tal como acordado, porém nunca recebeu as v erbas referentes às férias e ao décimo terceiro 
 salário, bem como nunca teve as contribuições previdenciárias devidamente recolhidas.   
@@ -1230,8 +1230,8 @@ As alternativas C e D estão incorretas , pois o imóvel residencial de Alzira �
 1º, caput, da Lei nº 8.009/90: “Art. 1º O imóvel residencial próprio do casal, ou da entidade familiar, é 
 impenhorável e não responderá por qualquer tipo de dívida civil, comercial, f iscal, previdenciária ou de outra 
 natureza, contraída pelos cônjuges ou pelos pais ou filhos que sejam seus proprietários e nele residam, salvo 
-nas hipóteses previstas nesta lei”.","Art. 2º da Lei nº 8.009/90, Art. 1º, caput, da Lei nº 8.009/90, Art. 1º, parágrafo único, da Lei nº 8.009/90",B,False
-"QUESTÃO 39. Antônio, locatário de um imóvel residencial, verificou uma enorme infiltração atrás dos 
+nas hipóteses previstas nesta lei”.","Art. 2º da Lei nº 8.009/90, Art. 1º, caput, da Lei nº 8.009/90, Art. 1º, parágrafo único, da Lei nº 8.009/90",B,False,Direito Civil
+39,"QUESTÃO 39. Antônio, locatário de um imóvel residencial, verificou uma enorme infiltração atrás dos 
 armários da cozinha. Com a finalidade de evitar maior deterioração do imóvel, Antônio realizou a obra a 
 fim de reparar o dano e conservar o bem. Aproveitand o a presença do empreiteiro em sua casa, reformou 
 todos os armários dos quartos, para incluir portas de espelho e puxadores em cobre com o único objetivo 
@@ -1287,8 +1287,8 @@ consideradas como benfeitorias voluptuárias, na medida em que caracterizam mero
 aumentam o uso habitual do bem, ainda que o tornem mais agradável ou seja m de elevado valor. Cumpre 
 destacar que a segunda parte da alternativa está correta, pois o reparo na cozinha classifica -se como 
 benfeitoria necessária, pois, diante da enorme infiltração, era imprescindível para conservar o b em ou evitar 
-que se deteriore.","Art. 96 do Código Civil, § 1º do art. 96 do Código Civil, § 3º do art. 96 do Código Civil",C,False
-"QUESTÃO 40. André, mediante contrato escrito, comprou o carro de passeio de seu vizinho, Bernardo. 
+que se deteriore.","Art. 96 do Código Civil, § 1º do art. 96 do Código Civil, § 3º do art. 96 do Código Civil",C,False,Direito Civil
+40,"QUESTÃO 40. André, mediante contrato escrito, comprou o carro de passeio de seu vizinho, Bernardo. 
 Duas semanas depois, enquanto André o conduzia por uma das principais avenidas da cidade, o veículo 
 quebrou, por causa de um defeito não aparente na mangueir a do radiador.   
 Para pretender indenização por perdas e danos em desfavor de Bernardo pelo ocorrido, André deve 
@@ -1320,8 +1320,8 @@ A alternativa D está incorreta , pois o Código Civil não exige cláusula cont
 a existência da garantia contra vícios ocultos. No caso hipotético, para pretender indenização por perdas e 
 danos, André deve provar preexistência do defeito e que Bernardo ti nha conhecimento dele, nos termos do 
 art. 443 do Código Civil: “Se o alienante conhecia o vício ou defeito da coisa, restituirá o que recebeu com 
-perdas e danos; se o não conhecia, tão -somente restituirá o valor recebido, mais  as despesas do contrato”.","art. 443 do Código Civil, Vícios redibitórios",C,False
-"QUESTÃO 41. Mariana e Lucas estão casados há mais de 10 anos em regime da comunhão parcial de bens. 
+perdas e danos; se o não conhecia, tão -somente restituirá o valor recebido, mais  as despesas do contrato”.","art. 443 do Código Civil, Vícios redibitórios",C,False,Direito Civil
+41,"QUESTÃO 41. Mariana e Lucas estão casados há mais de 10 anos em regime da comunhão parcial de bens. 
 Recentemente, Mariana descobriu que Lucas vem mantendo uma relação extraconjugal com uma vizinha. 
 A descoberta abalou profundamente o casamento, e Mariana p ediu o divórcio.   
 Considerando a quebra do dever de fidelidade, Mariana alega que Lucas perdeu o direito sobre todos os 
@@ -1358,8 +1358,8 @@ art. 1.566, I, do Código Civil: “São deveres de ambos os cônjuges: I - fide
 previsão legal quanto à consequência de perda do direito à meação.   
 A alternativa D está incorreta , pois o adultério não interfere no convívio do pai adúltero com os filhos 
 menores de idade. De acordo com o art. 1.579 do Código Civil: “O divórcio não modificará os direitos e 
-deveres dos pais em relação aos filhos”.","Responsabilidade Civil na seara familiar, Art. 1.566, I, do Código Civil, Emenda Constitucional n. 66/10, arts. 1.658 a 1.666 do Código Civil, Art. 1.579 do Código Civil",B,False
-"QUESTÃO 42. Joaquim estava jantando com sua família em um restaurante, quando percebeu que sua 
+deveres dos pais em relação aos filhos”.","Responsabilidade Civil na seara familiar, Art. 1.566, I, do Código Civil, Emenda Constitucional n. 66/10, arts. 1.658 a 1.666 do Código Civil, Art. 1.579 do Código Civil",B,False,Direito Civil
+42,"QUESTÃO 42. Joaquim estava jantando com sua família em um restaurante, quando percebeu que sua 
 filha tinha iniciado um quadro alérgico, apresentando dificuldades respiratórias, que a colocavam em 
 grave risco de morte.   
 Em frente ao restaurante, havia uma clínica médica, onde buscaram atendimento. O médico de plantão, 
@@ -1416,8 +1416,8 @@ com Cristiano Chaves: “O estado de necessidade, por sua vez, consiste na agres
 pertencente a outrem para eliminar um perigo atual ou iminente causado inju stamente ao agente. São, 
 portanto, elementos do estado de necessidade: (i) perigo atual ou iminente; (ii) causado por outrem; (iii) 
 inevitabilidade de conduta diversa; (iv) preservação de um direito próprio, existencial ou pat rimonial; (v) 
-inexistência de dever jurídico de enfrentar o perigo”.","art. 178, II, do Código Civil, art. 157 do Código Civil, art. 156, caput, do Código Civil",C,False
-"QUESTÃO 43. Rafael e Marta se casaram. Rafael tem dois filhos do relacionamento anterior, ambas 
+inexistência de dever jurídico de enfrentar o perigo”.","art. 178, II, do Código Civil, art. 157 do Código Civil, art. 156, caput, do Código Civil",C,False,Direito Civil
+43,"QUESTÃO 43. Rafael e Marta se casaram. Rafael tem dois filhos do relacionamento anterior, ambas 
 crianças com idade inferior a 5 anos. A genitora das crianças teve decretada a perda do poder familiar em 
 processo regular, com trânsito em julgado.  
 Marta, então, em processo igualmente regular, adota os filhos de Rafael, passando em juízo também a 
@@ -1454,8 +1454,8 @@ estabelece que a adoção é irrevogável, atribuindo ao adotado a condição pl
 uma vez consumada a adoção, não há distinção entre filhos biológicos e a dotivos para nenhum efeito, 
 incluindo a definição da guarda em caso de dissolução do casamento ou união estável dos pais. Assim, a 
 origem biológica ou adotiva da filiação não influencia a decisão sobre a guarda, que deve ser det erminada 
-com base no melhor interesse da criança, independentemente do vínculo genético.","Adoção, Artigo 41, parágrafo 1º do ECA, Estatuto da Criança e do Adolescente (ECA), Melhor interesse da criança ou adolescente",D,False
-"QUESTÃO 44. Rafael, de 16 anos, foi apreendido após invadir uma loja de cosméticos e, mediante o 
+com base no melhor interesse da criança, independentemente do vínculo genético.","Adoção, Artigo 41, parágrafo 1º do ECA, Estatuto da Criança e do Adolescente (ECA), Melhor interesse da criança ou adolescente",D,False,Direito da Criança e do Adolescente
+44,"QUESTÃO 44. Rafael, de 16 anos, foi apreendido após invadir uma loja de cosméticos e, mediante o 
 emprego de arma de fogo, subtrair os pertences da caixa. Devidamente processado, o juízo da infância 
 aplicou a medida de semiliberdade ao adolescente, tendo oc orrido o trânsito em julgado.  
 Depois de dois meses de cumprimento da medida, Laura, mãe de Rafael, procura você, como advogado(a), 
@@ -1489,8 +1489,8 @@ socioeducativo.
 A alternativa D está incorreta . Esta opção é incorreta porque contradiz expressamente o disposto no artigo 
 120 do ECA. A medida de semiliberdade é justamente caracterizada pela possibilidade de realização de 
 atividades externas como parte essencial do processo socioeducativo, diferente mente do que é afirmado 
-nesta alternativa.","Artigo 120 do ECA, Estatuto da Criança e do Adolescente (ECA), Medidas socioeducativas, Reintegração do adolescente ao convívio social, Regime de semiliberdade",C,False
-"QUESTÃO 45. Carlos, um consumidor, celebrou um contrato de adesão para aquisição de um pacote 
+nesta alternativa.","Artigo 120 do ECA, Estatuto da Criança e do Adolescente (ECA), Medidas socioeducativas, Reintegração do adolescente ao convívio social, Regime de semiliberdade",C,False,Direito da Criança e do Adolescente
+45,"QUESTÃO 45. Carlos, um consumidor, celebrou um contrato de adesão para aquisição de um pacote 
 turístico. Ao ler atentamente o contrato, Carlos identificou uma cláusula que determinava que ele não 
 poderia requerer indenização à empresa em caso de eventuais prejuízos decorrentes de cancelamentos 
 por causas naturais. Preocupado, Carlos procura você, como advogado (a), para buscar amparo legal e 
@@ -1525,8 +1525,8 @@ teoria do risco do empreendimento, devendo ser integralmente devolvidos os valor
 consumidor, o qual não deu causa ao evento natural. Nesse sentido: ""o cancelamento de pacote turístico 
 contratado constitui risco do empreendimento desenvolvido  por qualquer agência de turismo, não podendo 
 esta pretender a transferência integral do ônus decorrente de sua atividade empresarial a eventuais 
-consumidores” (REsp 1.321.655, Terceira Turma).","art. 51 do CDC, teoria do risco do empreendimento, art. 54, caput, do CDC, REsp 1.321.655, Terceira Turma",D,False
-"QUESTÃO 46. Você, como advogado(a), foi procurado(a) pela senhora Magda para orientá -la quanto às 
+consumidores” (REsp 1.321.655, Terceira Turma).","art. 51 do CDC, teoria do risco do empreendimento, art. 54, caput, do CDC, REsp 1.321.655, Terceira Turma",D,False,Direito do Consumidor
+46,"QUESTÃO 46. Você, como advogado(a), foi procurado(a) pela senhora Magda para orientá -la quanto às 
 dificuldades de atendimento de suas demandas no Serviço de Atendimento ao Consumidor (SAC) da 
 operadora do plano de saúde a que ela aderiu a partir do mês de novembro de 2022. A consulente narrou 
 a você que não consegue contato telefônico nos finais de semana, pois o atendimento se encerra às 22h 
@@ -1597,8 +1597,8 @@ A inclusão de temas não exigidos em edital afronta o princípio da publicidade
 formulação das questões de prova de concurso público, vincula -se às regras estabelecidas no instrumento 
 convocatório.  
 Por todo o exposto, tendo em vista que o conhecimento exigido para sua resolução não constava e nem 
-poderia ser aferido do edital, a","Art. 4º, caput, do Decreto 11.034/2022, §5º, do art. 4º, do Decreto 11.034/2022, §6º, do art. 4º, do Decreto 11.034/2022, art. 4º, §2º, do Decreto 11.034/2022, art. 12, caput, do Decreto 11.034/2022, art. 16 do Decreto 11.034/2022, art. 56 da Lei nº 8.078, de 1990 - Código de Defesa do Consumidor, Lei nº 8.078, de 11 de setembro de 1990 - Código de Defesa do Consumidor, item 3.4.1 do edital, § 3º do art. 11 no Provimento 144, de 13 de junho de 2011, Provimento 156, de 1º de novembro de 2013, do Conselho Federal da OAB, item 24 do edital, Lei 8.078/90 – Código de Defesa do Consumidor, princípio da publicidade",C,False
-"QUESTÃO 47. A partir de 2022, a possibilidade de o local de exercício da atividade empresarial ser virtual 
+poderia ser aferido do edital, a","Art. 4º, caput, do Decreto 11.034/2022, §5º, do art. 4º, do Decreto 11.034/2022, §6º, do art. 4º, do Decreto 11.034/2022, art. 4º, §2º, do Decreto 11.034/2022, art. 12, caput, do Decreto 11.034/2022, art. 16 do Decreto 11.034/2022, art. 56 da Lei nº 8.078, de 1990 - Código de Defesa do Consumidor, Lei nº 8.078, de 11 de setembro de 1990 - Código de Defesa do Consumidor, item 3.4.1 do edital, § 3º do art. 11 no Provimento 144, de 13 de junho de 2011, Provimento 156, de 1º de novembro de 2013, do Conselho Federal da OAB, item 24 do edital, Lei 8.078/90 – Código de Defesa do Consumidor, princípio da publicidade",C,False,Direito do Consumidor
+47,"QUESTÃO 47. A partir de 2022, a possibilidade de o local de exercício da atividade empresarial ser virtual 
 passou a ser reconhecido no Código Civil.  
 A respeito desse tema, assinale a afirmativa correta.  
 a) Se o empresário ou a sociedade empresária exercer a empresa em local virtual, tal local é denominado 
@@ -1637,8 +1637,8 @@ empresária. (Incluído pela Lei nº 14.382, de 2022)"".
 A alternativa D está incorreta , pois não há tal determinação legal no que diz respeito à escolha do local virtual 
 de exercício da empresa. A obrigação de informar a alteração do endereço físico ocorrerá no caso do 
 Decreto -lei 5.844/1943, que em seu artigo 195 determina sua realização, no prazo de 30 dias, às repartições 
-competentes, o que não é o caso em tela.","Art. 1.142, § 1º do Código Civil, Art. 1.142 do Código Civil, Art. 3º, II da Lei nº 13.874, Decreto-lei 5.844/1943, artigo 195",C,False
-"QUESTÃO 48. Quatro pessoas naturais constituíram uma sociedade para exploração de prestação de 
+competentes, o que não é o caso em tela.","Art. 1.142, § 1º do Código Civil, Art. 1.142 do Código Civil, Art. 3º, II da Lei nº 13.874, Decreto-lei 5.844/1943, artigo 195",C,False,Direito Empresarial
+48,"QUESTÃO 48. Quatro pessoas naturais constituíram uma sociedade para exploração de prestação de 
 serviços de entrega domiciliar, mas não se preocuparam em arquivar o documento particular de 
 constituição em qualquer registro.  
 Considerando a situação dessa sociedade e as disposições aplicáveis, assinale a afirmativa correta.  
@@ -1671,8 +1671,8 @@ A alternativa D está incorreta , tendo em vista que, consoante o Código Civil,
 normas da sociedade em comum, e, subsidiariamente, pelas normas da sociedade simples. Vejamos: ""Art. 
 986. Enquanto não inscritos os atos constitutivos, reger -se-á a sociedade, exce to por ações em organização, 
 pelo disposto neste Capítulo, observadas, subsidiariamente e no que com ele forem compatíveis, as normas 
-da sociedade simples.""","Código Civil, Art. 986",A,False
-"QUESTÃO 49. Os cientistas Pio Alves e Cardoso Moreira desenvolveram dois produtos que reúnem os 
+da sociedade simples.""","Código Civil, Art. 986",A,False,Direito Empresarial
+49,"QUESTÃO 49. Os cientistas Pio Alves e Cardoso Moreira desenvolveram dois produtos que reúnem os 
 requisitos de patenteabilidade e reivindicaram a autoria perante o Instituto Nacional da Propriedade 
 Industrial (INPI). O primeiro recebeu registro de patente n a categoria de invenção e, o segundo, a patente 
 na categoria de modelo de utilidade.  
@@ -1696,8 +1696,8 @@ de invenção e de patente de modelo de utilidade, veja: ""Art. 40. A patente de
 de 20 (vinte) anos e a de modelo de utilidade pelo prazo 15 (quinze)  anos contados da data de depósito.""  
 A alternativa D está incorreta , pois contraria a Lei nº 9.279, que traz a vigência temporária para as patentes 
 de invenção e de patente de modelo de utilidade, veja: ""Art. 40. A patente de invenção vigorará pelo prazo 
-de 20 (vinte) anos e a de modelo de utilidade pelo prazo 15 (quinze)  anos contados da data de depósito.""","Lei nº 9.279, Art. 40 da Lei nº 9.279, patente de invenção, patente de modelo de utilidade",A,False
-"QUESTÃO 50. O juiz da falência da sociedade empresária Refrigeração Abaíra Ltda. determinou que o 
+de 20 (vinte) anos e a de modelo de utilidade pelo prazo 15 (quinze)  anos contados da data de depósito.""","Lei nº 9.279, Art. 40 da Lei nº 9.279, patente de invenção, patente de modelo de utilidade",A,False,Direito Empresarial
+50,"QUESTÃO 50. O juiz da falência da sociedade empresária Refrigeração Abaíra Ltda. determinou que o 
 administrador judicial ficasse responsável pela guarda dos bens arrecadados. O administrador judicial, 
 entretanto, apresentou justificativas que o impossibili tavam de assumir tal encargo.  
 Foi proposto ao juiz que os bens situados fora do estabelecimento da falida ficassem sob a guarda do Sr. 
@@ -1744,8 +1744,8 @@ arrecadados pelo administrador judicial poderão ficar sob a guarda de pessoa po
 dos bens e documentos e a avaliação dos bens, separadamente ou em bloco, no local em que se encontrem, 
 requerendo ao juiz, para esses fins, as medidas n ecessárias. § 1º Os bens arrecadados ficarão sob a guarda 
 do administrador judicial ou de pessoa por ele escolhida, sob responsabilidade daquele, podendo o falido 
-ou qualquer de seus representantes ser nomeado depositário dos bens.""","Lei 11.101, art. 108, Lei 11.101, art. 108, § 1º",B,False
-"QUESTÃO 51. Aline recebeu uma proposta de investimento de Gizé Ltda., instituição que atua no mercado 
+ou qualquer de seus representantes ser nomeado depositário dos bens.""","Lei 11.101, art. 108, Lei 11.101, art. 108, § 1º",B,False,Direito Empresarial
+51,"QUESTÃO 51. Aline recebeu uma proposta de investimento de Gizé Ltda., instituição que atua no mercado 
 financeiro, que lhe garantiria um retorno fixo mensal de 10% ao mês sobre o capital investido. Crendo 
 tratar -se de um ótimo negócio, Aline transferiu R$ 5 00.000,00 (quinhentos mil reais) para a conta da Gizé 
 Ltda., que passou a lhe apresentar extratos mensais, apontando um suposto crescimento do capital.  
@@ -1788,8 +1788,8 @@ resolução de mérito”.
 A alternativa D está incorreta . Ocorrendo a perda da eficácia da tutela cautelar antecedente, o pedido 
 poderá vir a ser renovado pela própria parte, mas desde que isso seja feito com base em um fundamento 
 novo, como prevê o parágrafo único do art. 309 do CPC: “Se por qualquer motivo ce ssar a eficácia da tutela 
-cautelar, é vedado à parte renovar o pedido, salvo sob novo fundamento”.","Art. 309 do CPC, Art. 308 do CPC, Parágrafo único do art. 309 do CPC",C,False
-"QUESTÃO 52. Júlio, advogado ainda inexperiente, preocupado com a possibilidade de perder o prazo para 
+cautelar, é vedado à parte renovar o pedido, salvo sob novo fundamento”.","Art. 309 do CPC, Art. 308 do CPC, Parágrafo único do art. 309 do CPC",C,False,Direito Processual Civil
+52,"QUESTÃO 52. Júlio, advogado ainda inexperiente, preocupado com a possibilidade de perder o prazo para 
 oferecer contestação em favor de Roberta, sua cliente que está viajando, indaga a você se ele deve esperar 
 o retorno de Roberta, que esqueceu de fornecer procuração.  
 Diante desse cenário, assinale a afirmativa que, corretamente, apresenta sua orientação.  
@@ -1823,8 +1823,8 @@ apresentar a procuração posteriormente, dentro do prazo de 15 dias, salvo pror
 pelo juiz.  
 A alternativa B está incorreta . Conforme comentários da alternativa A.   
  A alternativa C está incorreta . Conforme comentários da alternativa A.  
-A alternativa D está incorreta . Conforme comentários da alternativa A.","Instrumento de procuração no processo civil, Art. 104 do CPC, Preclusão, Decadência, Prescrição",A,False
-"QUESTÃO 53. Na qualidade de servidor público estadual, Marcos ajuizou ação pelo procedimento comum 
+A alternativa D está incorreta . Conforme comentários da alternativa A.","Instrumento de procuração no processo civil, Art. 104 do CPC, Preclusão, Decadência, Prescrição",A,False,Direito Processual Civil
+53,"QUESTÃO 53. Na qualidade de servidor público estadual, Marcos ajuizou ação pelo procedimento comum 
 contra o Estado de Minas Gerais, buscando obter o pagamento de determinada verba remuneratória que 
 lhe teria sido suprimida de forma administrativa, em contr ariedade ao que dispõe a lei.  
 Depois da citação do Estado de Minas Gerais e do regular curso do feito, o juiz responsável pela tramitação 
@@ -1872,8 +1872,8 @@ dispositivo do CPC: “Art. 231. Salvo disposição em sentido diverso, consider
 V - o dia útil seguinte à consulta ao teor da citação ou da intimação ou ao término do prazo para que a 
 consulta se dê, quando a citação ou a intimação for eletrônica”. Portanto, o Estado de Minas Gerais poderá, 
 sim, apresentar seus embargos de declaração no prazo de 10 dias úteis, contados  do dia útil seguinte à 
-consulta ao teor da intimação ou ao término do prazo para que a consulta se dê.","art. 1.003, §5º, CPC, art. 183, caput, CPC, art. 183, §1º, art. 218, §4º, art. 1.023, CPC, art. 183, CPC, Art. 231, V, CPC",D,False
-"QUESTÃO 54. O engenheiro civil José Carlos Silva trabalha em Aracaju/SE. Ele realizou a reforma da casa 
+consulta ao teor da intimação ou ao término do prazo para que a consulta se dê.","art. 1.003, §5º, CPC, art. 183, caput, CPC, art. 183, §1º, art. 218, §4º, art. 1.023, CPC, art. 183, CPC, Art. 231, V, CPC",D,False,Direito Processual Civil
+54,"QUESTÃO 54. O engenheiro civil José Carlos Silva trabalha em Aracaju/SE. Ele realizou a reforma da casa 
 de Luzia, no valor de R$ 15.000,00 (quinze mil reais). O serviço foi devidamente prestado, sem qualquer 
 reclamação por eventuais falhas por parte de Luz ia. Contudo, Luzia não efetuou o pagamento no prazo 
 estipulado.  
@@ -1920,8 +1920,8 @@ parágrafo único acima citado.
 A alternativa C está incorreta . Como já mencionado na alternativa B, a configuração do ato atentatório à 
 dignidade da justiça poderá resultar na aplicação de uma multa, mas o seu montante não poderá exceder 
 20% do valor atualizado do débito em execução (art. 774, parágrafo único, CPC).  
-A alternativa D está incorreta . Conforme comentários da alternativa B.","ato atentatório à dignidade da justiça, execução de título extrajudicial, art. 774 do CPC",B,False
-"QUESTÃO 55. Felipe propôs ação de reparação de danos contra Gustavo fundada em responsabilidade 
+A alternativa D está incorreta . Conforme comentários da alternativa B.","ato atentatório à dignidade da justiça, execução de título extrajudicial, art. 774 do CPC",B,False,Direito Processual Civil
+55,"QUESTÃO 55. Felipe propôs ação de reparação de danos contra Gustavo fundada em responsabilidade 
 extracontratual, em razão de Felipe ter sido atacado pelo cachorro de Gustavo, enquanto transitava pela 
 rua perto de sua casa.  
 Em primeira instância, os pedidos formulados por Felipe em sua petição inicial foram julgados totalmente 
@@ -1963,8 +1963,8 @@ de um novo recurso de apelação por parte do advogado de Felipe, mas, sim, de m
 alterações do recurso já anteriormente interpo sto, para que não seja violado o princípio da 
 unirrecorribilidade.  
 A alternativa C está incorreta . Conforme comentários da alternativa B.  
-A alternativa D está incorreta . Conforme comentários da alternativa B.","Art. 1.024, §§4º e 5º do CPC, Princípio da unirrecorribilidade",B,False
-"QUESTÃO 56. Leonardo adquiriu uma televisão na Loja Francesa pelo valor de R$ 12.000,00 (doze mil 
+A alternativa D está incorreta . Conforme comentários da alternativa B.","Art. 1.024, §§4º e 5º do CPC, Princípio da unirrecorribilidade",B,False,Direito Processual Civil
+56,"QUESTÃO 56. Leonardo adquiriu uma televisão na Loja Francesa pelo valor de R$ 12.000,00 (doze mil 
 reais), quantia que seria paga por meio de cartão de crédito em 12 (doze) parcelas de R$ 1.000,00. Ocorre 
 que, após o pagamento da 6ª (sexta) parcela, a Loja Francesa passou a cobrar R$ 2.000,00 (dois mil reais) 
 de Leonardo nas 6 (seis) parcelas restantes.  
@@ -2013,8 +2013,8 @@ requerer ao presidente ou ao vice -presidente do Tribunal  que exclua o recurso 
 sobrestamento e o inadmita em razão da sua intempestividade. Caso esse requerimento venha a ser 
 indeferido, será possível a apresentação do agravo interno para o órgão colegiado, que poderá rever a 
 decisão mon ocrática e, consequentemente, inadmitir o recurso especial apresentado de maneira 
-intempestiva.","Art. 1.036 do CPC, Recursos especiais repetitivos no âmbito do processo civil, Regimento Interno do Supremo Tribunal Federal, Regimento do Superior Tribunal de Justiça",D,False
-"QUESTÃO 57. Paulo é investigado em um Inquérito Policial pelos crimes de ameaça e lesão corporal em 
+intempestiva.","Art. 1.036 do CPC, Recursos especiais repetitivos no âmbito do processo civil, Regimento Interno do Supremo Tribunal Federal, Regimento do Superior Tribunal de Justiça",D,False,Direito Processual Civil
+57,"QUESTÃO 57. Paulo é investigado em um Inquérito Policial pelos crimes de ameaça e lesão corporal em 
 face de sua esposa, Maria. Ao longo da investigação, foi decretada medida protetiva de afastamento de 
 1.000m em relação à vítima.  
 Posteriormente, movido por ciúmes em razão de uma mensagem de Maria a um amigo, Paulo foi ao 
@@ -2038,8 +2038,8 @@ A alternativa C está incorreta.  O tipo em questão não configura contravenç�
 no art. 24 -A, caput, da lei n. 11.340/2006. Ademais, a súmula n. 536 do STJ dispõe que “a suspensão 
 condicional do processo não se aplica na hipótese de delitos sujeitos ao rito d a lei Maria da Penha”.  
 A alternativa D está incorreta.  O tipo em questão configura crime constante no art. 24 -A, caput, da lei n. 
-11.340/2006.","Lei Maria da Penha, art. 24-A da lei n. 11.340/2006, art. 100 do CP, art. 24-A, §2º da lei n. 11.340/2006, art. 24-A, caput, da lei n. 11.340/2006, súmula n. 536 do STJ",A,False
-"QUESTÃO 58.  Antônio, funcionário público, foi designado como servidor responsável por conduzir a 
+11.340/2006.","Lei Maria da Penha, art. 24-A da lei n. 11.340/2006, art. 100 do CP, art. 24-A, §2º da lei n. 11.340/2006, art. 24-A, caput, da lei n. 11.340/2006, súmula n. 536 do STJ",A,False,Direito Penal
+58,"QUESTÃO 58.  Antônio, funcionário público, foi designado como servidor responsável por conduzir a 
 licitação de um Hospital Público que desejava adquirir 100.000 (cem mil) doses de um determinado 
 medicamento.  
 Patrícia, funcionária da sociedade empresária Medicante Ltda., descobre o contato de Antônio e, de seu 
@@ -2070,8 +2070,8 @@ determiná -lo a praticar, omitir ou retardar ato de ofício, nos termos do arti
 sendo particular, realiza conduta que se amolda ao artigo 333 do CP.  
 Por fim, o referido delito é crime formal: “O crime de corrupção, abstratamente descrito como típico no art. 
 333 do Código Penal, possui natureza formal e se aperfeiçoa com a oferta ou promessa de vantagem indevida 
-a funcionário público, para praticar, omi tir ou retardar ato de ofício.” (RHC 95.557 -GO).","Crimes contra Administração Pública, artigo 317 do CP, artigo 333 do CP, RHC 95.557 -GO",D,False
-"QUESTÃO 59.  O médico João dos Santos, durante a realização de uma cirurgia na perna de um paciente, 
+a funcionário público, para praticar, omi tir ou retardar ato de ofício.” (RHC 95.557 -GO).","Crimes contra Administração Pública, artigo 317 do CP, artigo 333 do CP, RHC 95.557 -GO",D,False,Direito Penal
+59,"QUESTÃO 59.  O médico João dos Santos, durante a realização de uma cirurgia na perna de um paciente, 
 cometeu um erro que acabou provocando a necessária amputação do membro do paciente. A pena 
 cominada à lesão corporal culposa é de dois meses a um ano, à lesão corporal grave é de um a cinco anos 
 e à lesão corporal gravíssima, de dois a oito anos.  
@@ -2097,8 +2097,8 @@ superior a 2 anos, o que define a competência do Juizado Especial Criminal, con
 n. 9.099/95.   
 A alternativa B está incorreta.  Conforme comentários da alternativa A.  
 A alternativa C está incorreta.  Conforme comentários da alternativa A.  
-A alternativa D está incorreta.  Conforme comentários da alternativa A.","crime de lesão corporal culposa, art. 129, §6º, do CP, negligência, imprudência, imperícia, infração de menor potencial ofensivo, artigos 60 e 61 da Lei n. 9.099/95",A,False
-"QUESTÃO 60.  Arthur resolveu furtar os cabos de eletricidade da linha férrea de sua cidade, a fim de 
+A alternativa D está incorreta.  Conforme comentários da alternativa A.","crime de lesão corporal culposa, art. 129, §6º, do CP, negligência, imprudência, imperícia, infração de menor potencial ofensivo, artigos 60 e 61 da Lei n. 9.099/95",A,False,Direito Penal
+60,"QUESTÃO 60.  Arthur resolveu furtar os cabos de eletricidade da linha férrea de sua cidade, a fim de 
 revender o cobre, clandestinamente. Contudo, após iniciar o corte para retirar os fios de cobre, foi  
  surpreendido pelo trem, que o atropelou, vindo a sofrer a amputação dos membros inferiores. Arthur foi 
 denunciado como incurso nas penas do delito de furto.  
@@ -2128,8 +2128,8 @@ A alternativa D está incorreta. O Perdão judicial é uma possibilidade outorga
 da punibilidade, nos termos do artigo 107,IX, do CP, pela qual o Estado renuncia o exercício do poder 
 punitivo. Não há previsão do perdão judicial para o crime de furto, no máxi mo, em se reconhecendo o 
 privilégio, o juiz poderá “substituir a pena de reclusão pela de detenção, diminuí -la de um a dois terços, ou 
-aplicar somente a pena de multa.” (art. 155,§2º, do CP)","Artigo 14, II, do Código Penal, Artigo 14, parágrafo único do Código Penal, Artigo 16 do CP, Artigo 107, IX, do CP, Artigo 155, §2º, do CP",A,False
-"QUESTÃO 61.  Júlio desferiu um tapa no rosto de Jacinto, que foi projetado contra um poste em que havia 
+aplicar somente a pena de multa.” (art. 155,§2º, do CP)","Artigo 14, II, do Código Penal, Artigo 14, parágrafo único do Código Penal, Artigo 16 do CP, Artigo 107, IX, do CP, Artigo 155, §2º, do CP",A,False,Direito Penal
+61,"QUESTÃO 61.  Júlio desferiu um tapa no rosto de Jacinto, que foi projetado contra um poste em que havia 
 um fio de alta tensão exposto, algo que não foi visto nem poderia ser imaginado por Júlio, pois já era noite 
 e havia pouca iluminação. Jacinto recebeu uma forte desc arga elétrica, que foi causa suficiente de sua 
 morte.  
@@ -2155,8 +2155,8 @@ Destaca -se que, no caso narrado, não havia como prever a existência do poste 
 fato também não faz parte da mesma cadeia causal, não   é uma consequência natural da primeira ação. Por 
 isso, Jacinto não responderá pelo resultado.  
 A alternativa C está incorreta.  Conforme comentários da alternativa B.  
-A alternativa D está incorreta.  Conforme comentários da alternativa B.","Nexo de Causalidade, art. 13, §1º",B,False
-"QUESTÃO 62.  Joaquim dirigia -se a uma agência bancária para sacar o valor de sua aposentadoria. Todavia, 
+A alternativa D está incorreta.  Conforme comentários da alternativa B.","Nexo de Causalidade, art. 13, §1º",B,False,Direito Penal
+62,"QUESTÃO 62.  Joaquim dirigia -se a uma agência bancária para sacar o valor de sua aposentadoria. Todavia, 
 às 10h, ao se aproximar do estabelecimento, foi abordado por Gilson que, com emprego de arma de fogo, 
 ordenou que Joaquim entrasse em seu carro.  
 Em seguida, Gilson conduziu o veículo até um motel e, mediante ameaça de morte, exigiu que a vítima 
@@ -2181,8 +2181,8 @@ penas prev istas no art. 159, §§ 2o e 3o, respectivamente.”.
 a vantagem econômica, como ocorreu no caso narrado pela questão.  
 Por outro lado, a extorsão mediante sequestro exigiria que a vítima fosse sequestrada e a liberdade desta 
 fosse utilizada como forma de alcance de valores para um eventual resgate., ou seja, quem é extorquido não 
-é a vítima sequestrada, mas sim familiares e demais pessoas das quais é cobrado o resgate.","Crimes contra o patrimônio, Artigo 158, §3º, do CP",D,False
-"QUESTÃO 63.  Depois do recebimento de denúncia anônima, a delegacia iniciou a verificação preliminar 
+é a vítima sequestrada, mas sim familiares e demais pessoas das quais é cobrado o resgate.","Crimes contra o patrimônio, Artigo 158, §3º, do CP",D,False,Direito Penal
+63,"QUESTÃO 63.  Depois do recebimento de denúncia anônima, a delegacia iniciou a verificação preliminar 
 de informações e colheu indícios de que Juca desenvolvia atividades ilícitas de telecomunicações (pena: 
 detenção, 2 a 4 anos).  
 A fim de melhor apurar os fatos, foi instaurado inquérito policial e o delegado de polícia representou pela 
@@ -2204,8 +2204,8 @@ requerida pela autoridade policial, durante a investigação criminal.
 A alternativa D está incorreta.  A interceptação telefônica é exemplo de prova cautelar, que é produzida 
 antecipadamente à fase judicial por haver risco do desaparecimento do objeto da prova em razão do decurso 
 do tempo. Por este motivo, o contraditório desta espécie de prova é diferido,  ou seja, exercido 
-posteriormente à produção da prova.","art. 2º, III, da lei n. 9.296/96, art. 3º, I, da lei n. 9.296/96",A,False
-"QUESTÃO 64.  Suelen ajuizou queixa -crime contra Bolívar, pela prática do crime de exercício arbitrário das 
+posteriormente à produção da prova.","art. 2º, III, da lei n. 9.296/96, art. 3º, I, da lei n. 9.296/96",A,False,Direito Processual Penal
+64,"QUESTÃO 64.  Suelen ajuizou queixa -crime contra Bolívar, pela prática do crime de exercício arbitrário das 
 próprias razões praticado sem violência ou grave ameaça, previsto no Art. 345, caput e parágrafo único, 
 do CP, cuja pena cominada é de detenção de quinze dias a u m mês, ou multa.  
 A queixa -crime foi ajuizada perante o Juízo competente, que, após todo o trâmite preliminar, sendo 
@@ -2231,8 +2231,8 @@ de jurisdição, reunidos na sede do Juizado. § 1º A apelação será interpos
 da ciência da sentença pelo Ministério Público, pelo réu e seu defensor, por petição escrita, da qual 
 constarão as razões e o pedido do recorrente.”  
 A alternativa C está incorreta.  Conforme comentários da alternativa B.  
-A alternativa D está incorreta.  Conforme comentários da alternativa B.","Juizado Especial Criminal, art. 82, caput, da lei 9.099/95, §1º do art. 82 da lei 9.099/95",B,False
-"QUESTÃO 65.  Roberto Jorge, após regular pronúncia, foi levado a Júri, ocasião em que foi mantido 
+A alternativa D está incorreta.  Conforme comentários da alternativa B.","Juizado Especial Criminal, art. 82, caput, da lei 9.099/95, §1º do art. 82 da lei 9.099/95",B,False,Direito Processual Penal
+65,"QUESTÃO 65.  Roberto Jorge, após regular pronúncia, foi levado a Júri, ocasião em que foi mantido 
 algemado durante toda a sessão de julgamento, com a justificativa de ser pessoa de índole perigosa, já 
 que responde à acusação por crime doloso contra a vida. A defesa téc nica impugnou, sem sucesso, a 
 determinação do Juízo.  
@@ -2273,8 +2273,8 @@ determinando   seja  o  recorrente   submetido   a  novo   julgamento em plenár
 de algemas, salvo a ocorrência algum   motivo   concreto, devidamente relatado em suas circunstâncias pelo 
 juízo, que justif ique a imposição do gravame ao paciente.""(  RHC n. 76.591).   
 A alternativa C está incorreta.  Conforme comentários da alternativa B.  
-A alternativa D está incorreta.  Conforme comentários da alternativa B.","Artigo 474, §3º, do CPP, Artigo 478, I, do CPP, Súmula Vinculante n. 11, RHC n. 76.591, Presunção de inocência",B,False
-"QUESTÃO 66.  Juliano foi definitivamente condenado à pena de 8 (oito) anos de reclusão, em regime inicial 
+A alternativa D está incorreta.  Conforme comentários da alternativa B.","Artigo 474, §3º, do CPP, Artigo 478, I, do CPP, Súmula Vinculante n. 11, RHC n. 76.591, Presunção de inocência",B,False,Direito Processual Penal
+66,"QUESTÃO 66.  Juliano foi definitivamente condenado à pena de 8 (oito) anos de reclusão, em regime inicial 
 fechado. Após 2 (dois) anos de cumprimento da pena, foi detectado que Juliano passou a ter uma doença 
 mental grave, tornando -o inteiramente incapaz de compreender o caráter ilícito dos fatos pelos quais 
 havia sido condenado.  
@@ -2295,8 +2295,8 @@ Defensoria Pública ou da autoridade administrativa, poderá determinar a substi
 de segurança.” .  
 A alternativa B está incorreta.  Conforme comentários da alternativa A.   
  A alternativa C está incorreta.  Conforme comentários da alternativa A.  
-A alternativa D está incorreta.  Conforme comentários da alternativa A.","Incidentes de Execução, artigo 183 da LEP",A,False
-"QUESTÃO 67.  Luís Vicente, secretário de fazenda do Município Alfa, foi ofendido por Iório, secretário de 
+A alternativa D está incorreta.  Conforme comentários da alternativa A.","Incidentes de Execução, artigo 183 da LEP",A,False,Direito Processual Penal
+67,"QUESTÃO 67.  Luís Vicente, secretário de fazenda do Município Alfa, foi ofendido por Iório, secretário de 
 fazenda do Estado Beta, que, durante discurso na tribuna da Câmara dos Vereadores, afirmou que ""Luís 
 Vicente comete peculato, desviando recursos do caixa municipal  em proveito próprio e de seus 
 familiares!""  
@@ -2319,8 +2319,8 @@ penal por crime contra a honra de servidor público em razão do exercício de s
 A alternativa D está incorreta.  A CF prevê imunidade material aos parlamentares, dispondo que estes são 
 invioláveis, civil e penalmente, por quaisquer de suas opiniões, palavras e votos, desde que proferidos em 
 razão de suas funções parlamentares, no exercício e relacionados ao mandato.  Tal prerrogativa é restrita 
-aos membros do poder Legislativo, motivo pelo qual esta não se estende ao agente da questão em análise.","Súmula n. 714 do STF, Artigo da CF que prevê imunidade material aos parlamentares",C,False
-"QUESTÃO 68.  Vanessa, primária e sem antecedentes, grávida de seis meses, foi presa em flagrante no 
+aos membros do poder Legislativo, motivo pelo qual esta não se estende ao agente da questão em análise.","Súmula n. 714 do STF, Artigo da CF que prevê imunidade material aos parlamentares",C,False,Direito Processual Penal
+68,"QUESTÃO 68.  Vanessa, primária e sem antecedentes, grávida de seis meses, foi presa em flagrante no 
 aeroporto no momento em que embarcava com destino à Espanha de posse de 10kg de substância 
 entorpecente (cocaína). Vanessa foi autuada pela prática do crime de internaci onal drogas (Art. 33, caput, 
 c/c. Art. 40, inciso I, ambos da Lei no 11.343/06). Sobre a possibilidade de prisão domiciliar em favor de 
@@ -2352,8 +2352,8 @@ violência ou grave ameaça, nem contra crianças (tráfico de drogas), não reg
 nem há indicativo de que faça parte de organização criminosa, fatores que autorizam o deferimento do 
 benefício da prisão domiciliar, tendo em vista a necessidade presumida dos cuidados maternos em relação 
 aos infantes."" (AgRg no HC n. 769.008/SP)  
-A alternativa D está incorreta.  Conforme comentários da alternativa A.","Artigo 318-A do CPP, Substituição da prisão preventiva pela domiciliar no caso de mulheres gestantes ou responsáveis por crianças ou pessoas com deficiência, Requisitos para autorizar a substituição da prisão preventiva pela domiciliar: 1 - crime sem violência ou grave ameaça; e 2 - que o crime não seja contra o filho ou dependente, AgRg no HC n. 769.008/SP (STJ)",C,False
-"QUESTÃO 69. Manoel é segurado de baixa renda, tendo sido recolhido à prisão, em regime fechado, no 
+A alternativa D está incorreta.  Conforme comentários da alternativa A.","Artigo 318-A do CPP, Substituição da prisão preventiva pela domiciliar no caso de mulheres gestantes ou responsáveis por crianças ou pessoas com deficiência, Requisitos para autorizar a substituição da prisão preventiva pela domiciliar: 1 - crime sem violência ou grave ameaça; e 2 - que o crime não seja contra o filho ou dependente, AgRg no HC n. 769.008/SP (STJ)",C,False,Direito Processual Penal
+69,"QUESTÃO 69. Manoel é segurado de baixa renda, tendo sido recolhido à prisão, em regime fechado, no 
 dia 01/01/2022. Antes da prisão, ele recolheu 12 contribuições mensais à Previdência Social e tem, como 
 único dependente, o filho Maurício, de 19 anos.  
 Diante destas considerações, sobre o auxílio -reclusão assinale a afirmativa correta.  
@@ -2389,8 +2389,8 @@ A alternativa D está incorreta . Para a concessão do benefício do auxílio -r
 da condição de dependente, seja apresentada a certidão judicial que efetivamente ateste o recolhimento do 
 segurado à prisão, como se vê do §1º do art. 80 da Lei 8.213/91: “O re querimento do auxílio -reclusão será 
 instruído com certidão judicial que ateste o recolhimento efetivo à prisão, e será obrigatória a apresentação 
-de prova de permanência na condição de presidiário para a manutenção do benefíci o”.","MP 871/2019, Lei 13.846/2019, art. 25, IV, da Lei 8.213/91, Art. 16 da Lei 8.213/91, Art. 80 da Lei 8.213/91, § 7º do Art. 80 da Lei 8.213/91, §1º do art. 80 da Lei 8.213/91",A,False
-"QUESTÃO 70. José, mecânico, contando com 12 (doze) meses de contribuição para a Previdência Social, 
+de prova de permanência na condição de presidiário para a manutenção do benefíci o”.","MP 871/2019, Lei 13.846/2019, art. 25, IV, da Lei 8.213/91, Art. 16 da Lei 8.213/91, Art. 80 da Lei 8.213/91, § 7º do Art. 80 da Lei 8.213/91, §1º do art. 80 da Lei 8.213/91",A,False,Direito Previdenciário
+70,"QUESTÃO 70. José, mecânico, contando com 12 (doze) meses de contribuição para a Previdência Social, 
 sofreu acidente de trabalho, tornando -se tetraplégico. Em razão do acidente, ficou completamente 
 incapacitado para o trabalho.  
 Diante dessas condições, assinale a afirmativa correta.  
@@ -2439,8 +2439,8 @@ agravamento dessa doença ou lesão”. Com base nesse dispositivo, percebemos q
 se filiar ao RGPS quando já portador de uma doença ou lesão não terá direito à aposentadoria por 
 incapacidade p ermanente (ou ao auxílio por incapacidade temporária) em decorrência dessa doença ou 
 lesão, salvo se a incapacidade resultar de uma progressão ou agravamento que venha a ocorrer em 
-momento posterior, quando o segurado já estiver filiado.","Decreto 3.048/99, Art. 30, III, Decreto 3.048/99, Art. 29, I, Decreto 3.048/99, Art. 45, Decreto 3.048/99, Art. 48, Decreto 3.048/99, Art. 179, Decreto 3.048/99, Art. 47, Decreto 3.048/99, Art. 43, §2º, Aposentadoria por incapacidade permanente, Auxílio-acompanhante (ou “grande invalidez”)",C,False
-"QUESTÃO 71. Alexandre, Reginaldo e Maurício eram empregados da mesma sociedade empresária, mas 
+momento posterior, quando o segurado já estiver filiado.","Decreto 3.048/99, Art. 30, III, Decreto 3.048/99, Art. 29, I, Decreto 3.048/99, Art. 45, Decreto 3.048/99, Art. 48, Decreto 3.048/99, Art. 179, Decreto 3.048/99, Art. 47, Decreto 3.048/99, Art. 43, §2º, Aposentadoria por incapacidade permanente, Auxílio-acompanhante (ou “grande invalidez”)",C,False,Direito Previdenciário
+71,"QUESTÃO 71. Alexandre, Reginaldo e Maurício eram empregados da mesma sociedade empresária, mas 
 em períodos distintos. Alexandre pediu demissão após 2 (dois) anos de trabalho, pois já estava cansado 
 de trabalhar para o mesmo empregador e já era idoso contan do com 71 (setenta e um) anos de idade. 
 Reginaldo se aposentou após 3 (três) anos, pois já contava com idade e tempo de serviço anterior, apesar 
@@ -2472,8 +2472,8 @@ trabalhador no FGTS poderá ser movimentada nas seguint es situações: I - desp
 inclusive a indireta, de culpa recíproca e de força maior;”  
 Conforme demonstrado, os 3 trabalhadores poderão receber, imediatamente, os valores do FGTS.  
 Portanto, a alternativa A está correta . Automaticamente, e utilizando por base os mesmos dispositivos legais 
-acima transcritos, as alternativas B, C e D ficam incorretas .","Lei 8.038/90, Art. 20, XV, da Lei 8.038/90, Art. 20, III, da Lei 8.038/90, Art. 20, I, da Lei 8.038/90",A,False
-"QUESTÃO 72. Reinaldo, trabalhador rural, atua na Fazenda Boa Esperança como tratorista desde 1990. Em 
+acima transcritos, as alternativas B, C e D ficam incorretas .","Lei 8.038/90, Art. 20, XV, da Lei 8.038/90, Art. 20, III, da Lei 8.038/90, Art. 20, I, da Lei 8.038/90",A,False,Direito do Trabalho
+72,"QUESTÃO 72. Reinaldo, trabalhador rural, atua na Fazenda Boa Esperança como tratorista desde 1990. Em 
 janeiro de 2021, o empregador de Reinaldo o dispensou sem justa causa, sendo que o ex -empregado 
 ajuizou reclamação trabalhista em novembro de 2023.  
 Sobre a situação apresentada, nos termos da Constituição Federal, assinale a afirmativa correta.  
@@ -2501,8 +2501,8 @@ urbanos quanto para trabalhadores rurais, é de 2 anos após a extinção do con
 “Art. 11.   A pretensão quanto a créditos resultantes das relações de tra balho prescreve em cinco anos para 
 os trabalhadores urbanos e rurais, até o limite de dois anos após a extinção do contrato de trabalho.”  
 Como Reinaldo somente propôs a ação 2 anos e 10 meses após o término do vínculo de trabalho, houve 
-prescrição extintiva. Logo, se o reclamado suscitar tal prescrição, o juiz deverá acolhê -la.","Art. 11 da CLT, Art. 7º, XXIX da CF, Emenda Constitucional nº 28/2000",C,False
-"QUESTÃO 73. A empresa de trabalho temporário Sempre Alerta Ltda. terceirizará o serviço de limpeza da 
+prescrição extintiva. Logo, se o reclamado suscitar tal prescrição, o juiz deverá acolhê -la.","Art. 11 da CLT, Art. 7º, XXIX da CF, Emenda Constitucional nº 28/2000",C,False,Direito do Trabalho
+73,"QUESTÃO 73. A empresa de trabalho temporário Sempre Alerta Ltda. terceirizará o serviço de limpeza da 
 sociedade empresária Extintores Infalíveis Ltda, nela alocando 10 (dez) auxiliares de limpeza que se 
 revezarão em turnos de 12 x 36 horas. No contrato apr esentado, que vigora a partir de janeiro de 2024, 
 por 180 dias, e é regido pela Lei n° 6.019/74, existe cláusula de reserva que proíbe a contratação de 
@@ -2521,8 +2521,8 @@ trabalhador pela empresa tomadora ou cliente ao fim do prazo em que tenha sido c
 pela empresa de trabalho temporário.”  
 Portanto, a alternativa D está correta : A cláusula de reserva proposta pelo enunciado é nula de pleno direito.  
 Tomando por base o mesmo dispositivo legal, as alternativas A, B e C ficam automaticamente incorretas , 
-pois falam em validade da cláusula de reserva.","artigo 11, parágrafo único, da Lei 6.019/1974",D,False
-"QUESTÃO 74. Os sindicatos de classe de uma determinada categoria elaboraram uma convenção coletiva 
+pois falam em validade da cláusula de reserva.","artigo 11, parágrafo único, da Lei 6.019/1974",D,False,Direito do Trabalho
+74,"QUESTÃO 74. Os sindicatos de classe de uma determinada categoria elaboraram uma convenção coletiva 
 normatizando o pagamento do adicional de penosidade. A norma previa vigência de 2 (dois) anos, com 
 término em outubro de 2023.  
 Considerando esses fatos e o que dispõe a CLT, assinale a afirmativa correta.  
@@ -2552,8 +2552,8 @@ trabalhadores perderão o direito ao adicional, sendo irrelevante haver ou não 
 disposto no art., 614, § 3º, da CLT, acima transcrito.  
 A alternativa D está incorreta . Ao término da vigência da norma coletiva, não há incorporação ao contrato 
 de trabalho de nenhuma das vantagens proporcionadas, posto que é vedada a ultratividade do instrumento, 
-conforme disposto no art., 614, § 3º, da CLT, acima transcrito.","art. 614, § 3º, da CLT, Normas coletivas de trabalho, ultratividade",B,False
-"QUESTÃO 75. Em 2024, uma companhia imobiliária contratou Olívia como estagiária. Olívia foi designada 
+conforme disposto no art., 614, § 3º, da CLT, acima transcrito.","art. 614, § 3º, da CLT, Normas coletivas de trabalho, ultratividade",B,False,Direito do Trabalho
+75,"QUESTÃO 75. Em 2024, uma companhia imobiliária contratou Olívia como estagiária. Olívia foi designada 
 para trabalhar em regime de teletrabalho (trabalho em domicílio, home office) na confecção de planilhas 
 de locatários inadimplentes, que, em seguida, são enviadas ao setor jurídico da sociedade empresária.  
 Considerando os fatos e o que dispõe a CLT, assinale a afirmativa correta,  
@@ -2578,8 +2578,8 @@ A alternativa B está incorreta . Conforme art. 75 -B, § 6º, da CLT, acima tra
 regime de teletrabalho para estagiários, sem necessidade de autorização prévia da autoridade judicial. Não 
 há de se falar em excepcionalidade.  
 A alternativa C está incorreta . A CLT não faz tal distinção, sendo possível o teletrabalho para todos os 
-estagiários, não somente os deficientes.","art. 75-B, § 6º, da CLT",D,False
-"QUESTÃO 76. Em sede de reclamação trabalhista na qual você advoga para a empregado, foi celebrado 
+estagiários, não somente os deficientes.","art. 75-B, § 6º, da CLT",D,False,Direito do Trabalho
+76,"QUESTÃO 76. Em sede de reclamação trabalhista na qual você advoga para a empregado, foi celebrado 
 acordo entre as partes ainda na fase de conhecimento, antes da prolação da sentença. Na petição de lavra 
 conjunta entre os advogados das partes nada constou a cerca das custas processuais. Seu cliente é 
 beneficiário da gratuidade de justiça, conforme decisão constante do processo desde o início.  
@@ -2612,8 +2612,8 @@ Desta feita, a alternativa A está correta : as custas deverão incidir em 2% so
 divididas em frações iguais pelas partes, mas não haverá o pagamento pela parte beneficiária da gratuidade 
 de justiça.  
 Tomando por base os mesmos dispositivos legais acima transcritos, as alternativas B, C e D, ficam, pois, 
-automaticamente incorretas .","art. 789, caput, da CLT, art. 789, § 3º, da CLT, art. 790-A da CLT, Justiça gratuita",A,False
-"QUESTÃO 77. Você advoga para o empregado, credor em uma reclamação trabalhista cuja decisão 
+automaticamente incorretas .","art. 789, caput, da CLT, art. 789, § 3º, da CLT, art. 790-A da CLT, Justiça gratuita",A,False,Direito Processual do Trabalho
+77,"QUESTÃO 77. Você advoga para o empregado, credor em uma reclamação trabalhista cuja decisão 
 transitou em julgado. A liquidação de sentença foi promovida e, após manifestações das partes, foi 
 homologado o cálculo da parte ré. Você continua entendendo que há  erro nos cálculos homologados e 
 pretende continuar a discutir a matéria.  
@@ -2641,8 +2641,8 @@ serão propostos pelo executado, e não pelo exequente
 A alternativa B está incorreta . De acordo com art. 884 da CLT, acima transcrito, há o prazo de 5 dias para 
 impugnar, não havendo de se falar em preclusão.  
 A alternativa C está incorreta . De acordo com art. 884 da CLT, acima transcrito, o prazo será de 5 dias, e não 
-de 10 dias.",Art. 884 da CLT,D,False
-"QUESTÃO 78. Jeferson trabalhou em São Paulo de 2018 a 2023, quando foi dispensado sem justa causa e 
+de 10 dias.",Art. 884 da CLT,D,False,Direito Processual do Trabalho
+78,"QUESTÃO 78. Jeferson trabalhou em São Paulo de 2018 a 2023, quando foi dispensado sem justa causa e 
 voltou para sua cidade de origem, Fortaleza/CE. Entendendo ter realizado sobrejornada sem receber, 
 Jeferson contratou um advogado na sua cidade que ajuizou reclamação trabalhista distribuída a uma das 
 Varas de Fortaleza/CE requerendo o pagamento de horas extras. A ex -empregadora foi citada para a 
@@ -2674,8 +2674,8 @@ A alternativa D está incorreta . Neste caso, é sim possível apresentar exceç
 pois a ação deve ser ajuizada no local da prestação de serviços, conforme art. 651 da CLT: “Art. 651 - A 
 competência das Juntas de Conciliação e Julgamento é determinada pela loc alidade onde o empregado, 
 reclamante ou reclamado, prestar serviços ao empregador, ainda que tenha sido contratado noutro local ou 
-no estrangeiro.”","Art. 800 da CLT, Art. 651 da CLT, Reclamação trabalhista, Exceção de incompetência territorial",C,False
-"QUESTÃO 79. Em determinada reclamação trabalhista, com a presença das partes e dos advogados, 
+no estrangeiro.”","Art. 800 da CLT, Art. 651 da CLT, Reclamação trabalhista, Exceção de incompetência territorial",C,False,Direito Processual do Trabalho
+79,"QUESTÃO 79. Em determinada reclamação trabalhista, com a presença das partes e dos advogados, 
 ocorreu a 1ª audiência apenas para a tentativa de conciliação, que não teve sucesso. Então, o juiz recebeu 
 a defesa e deferiu as provas testemunhais e os depoimen tos pessoais recíprocos, sob pena de confissão, 
 designando a data da instrução. Chegado o dia da audiência de instrução, as partes foram apregoadas e 
@@ -2704,8 +2704,8 @@ aplicada somente a uma das partes.
 A alternativa D está incorreta . O processo somente seria arquivado se apenas o reclamante não 
 comparecesse à audiência. De acordo com art. 844, caput, da CLT: “Art. 844 - O não -comparecimento do 
 reclamante à audiência importa o arquivamento da reclamação, e o não -comparecimento do recl amado 
-importa revelia, além de confissão quanto à matéria de fato.”","Súmula 74, I, do TST, Art. 818 da CLT, Art. 844, § 1º, da CLT, Art. 844, caput, da CLT",C,False
-"QUESTÃO 80. Você é advogado de um trabalhador em sede de reclamação trabalhista. Em que pese o 
+importa revelia, além de confissão quanto à matéria de fato.”","Súmula 74, I, do TST, Art. 818 da CLT, Art. 844, § 1º, da CLT, Art. 844, caput, da CLT",C,False,Direito Processual do Trabalho
+80,"QUESTÃO 80. Você é advogado de um trabalhador em sede de reclamação trabalhista. Em que pese o 
 direito de seu cliente ser constitucionalmente assegurado, pois se trata de férias não gozadas um ano após 
 o período aquisitivo, que tampouco foram indenizadas, a sentença de primeiro grau considerou o pedido 
 improcedente. Do mesmo modo o recurso pertinente contra essa decisão também teve o provimento 
@@ -2770,4 +2770,4 @@ Para qualquer dúvida, crítica ou sugestão, entre em contato pelos seguintes c
  
            E-mail: yasmin.ushara@estrategia.com  / thiago.carvalho@estrategia.com   
  
-  Instagram: estrategiacarreirajurídica / yasminushara","recursos em processo do trabalho, art. 897, alínea ‘’b’’, da CLT, Art. 897 - Cabe agravo, no prazo de 8 (oito) dias: b) de instrumento, dos despachos que denegarem a interposição de recursos., art. 896 da CLT, Art. 896 - Cabe Recurso de Revista para Turma do Tribunal Superior do Trabalho das decisões proferidas em grau de recurso ordinário, em dis sídio individual, pelos Tribunais Regionais do Trabalho, quando: (...), art. 102, III, da CF, Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo -lhe: III - julgar, mediante recurso extraordinário, as causas decididas em ún ica ou última instância, quando a decisão recorrida: a) contrariar dispositivo desta Constituição; b) declarar a inconstitucionalidade de tratado ou lei federal; c) julgar válida lei ou ato de governo local contestado em face desta Constituição. d) julgar válida lei local contestada em face de lei federal., art. 897, alínea ‘’a’’, da CLT, Art. 897 - Cabe agravo, no prazo de 8 (oito) dias: a) de petição, das decisões do Juiz ou Presidente, nas execuções;",B,False
+  Instagram: estrategiacarreirajurídica / yasminushara","recursos em processo do trabalho, art. 897, alínea ‘’b’’, da CLT, Art. 897 - Cabe agravo, no prazo de 8 (oito) dias: b) de instrumento, dos despachos que denegarem a interposição de recursos., art. 896 da CLT, Art. 896 - Cabe Recurso de Revista para Turma do Tribunal Superior do Trabalho das decisões proferidas em grau de recurso ordinário, em dis sídio individual, pelos Tribunais Regionais do Trabalho, quando: (...), art. 102, III, da CF, Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo -lhe: III - julgar, mediante recurso extraordinário, as causas decididas em ún ica ou última instância, quando a decisão recorrida: a) contrariar dispositivo desta Constituição; b) declarar a inconstitucionalidade de tratado ou lei federal; c) julgar válida lei ou ato de governo local contestado em face desta Constituição. d) julgar válida lei local contestada em face de lei federal., art. 897, alínea ‘’a’’, da CLT, Art. 897 - Cabe agravo, no prazo de 8 (oito) dias: a) de petição, das decisões do Juiz ou Presidente, nas execuções;",B,False,Direito Processual do Trabalho
